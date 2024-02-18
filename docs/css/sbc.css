@@ -1,0 +1,140 @@
+body {
+  font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-weight: 700;
+}
+
+nav.navbar ul.navbar-nav a.nav-link {
+  padding: 0 .75rem;
+  color: #8c1515;
+}
+
+nav.navbar ul.navbar-nav a.nav-link:hover, nav.navbar ul.navbar-nav a.nav-link:focus {
+  color: #8c1515 !important;
+  text-decoration: underline;
+}
+
+div.masthead {
+  position: relative;
+  background-color: SlateBlue;
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+  margin-bottom: 0rem;
+}
+
+div.masthead .overlay {
+  position: absolute;
+  background-color: #212529;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  opacity: 0.3;
+}
+
+div.masthead h1 {
+  font-size: 2rem;
+  letter-spacing: 0.1rem;
+  text-shadow: 2px 3px 8px rgba(0, 0, 0, 0.75);
+}
+
+@media (min-width: 768px) {
+  div.masthead {
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+  }
+  div.masthead h1 {
+    font-size: 3rem;
+    letter-spacing: 0.2rem;
+  }
+}
+
+@media (min-width: 1024px) {
+  div.masthead {
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+  }
+  div.masthead h1 {
+    font-size: 4rem;
+  }
+}
+
+#news .card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#news .card, #news .list-group-item {
+  background-color: #f5f5f5;
+}
+
+#news img {
+  height: 5rem;
+  width: auto;
+}
+
+#people img {
+  max-height: 6rem;
+  width: auto;
+}
+
+#people .people-image {
+  width: 6rem;
+}
+
+#events img {
+  height: 4rem;
+  width: auto;
+}
+
+#researchpage p {
+  margin: 0rem;
+  passing: 0rem;
+}
+
+#sponsors img {
+  height: 6rem;
+  width: auto;
+}
+
+.features-icons {
+  padding-top: 2rem;
+}
+
+.features-icons .features-icons-item {
+  max-width: 20rem;
+}
+
+.features-icons .features-icons-item .features-icons-icon {
+  height: 7rem;
+}
+
+footer.footer {
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+}
+
+a {
+  color: #0056b3;
+  font-weight: 800;
+}
+
+.seminartitle {
+  font-weight:bold;
+  font-size:larger;
+  margin-left: 2rem;
+}
+
+.seminarspeaker {
+  font-size:larger;
+  margin-left: 2rem;
+}
+
+
