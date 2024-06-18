@@ -1,0 +1,783 @@
+<html>
+<body>
+
+<!---  copy from here  -->
+
+<style>
+table.program {
+	border-collapse:collapse;
+	width:745px;
+}
+
+table.program td {
+	border: 1px solid black; 
+	vertical-align: top;
+}
+
+table.program td.empty {
+	border: none;
+	padding-top: 2em;
+}
+
+.day {
+	width: 100%;
+	background-color: #000080;
+	color: #e9fbfc;
+	font-weight: 300;
+	font-size: 120%;
+        padding: .5em;
+}
+
+.time {
+	font-size: 90%;
+	font-style:italic;
+        padding-top: .5em;
+}
+
+.lecture {
+        padding: .5em 0em .5em .5em;
+}
+
+.lectitle {
+	font-weight: bold;
+	color: DarkBlue;
+	padding-bottom: .1em;
+}
+
+.lecturer {
+	font-style: normal;
+}
+
+.authors {
+        font-style: italic;
+}
+
+.break {
+	background-color: #F8F8F8;
+}
+
+.session {
+	font-weight: bold;
+	padding-top: .8em;
+	padding-left: .5em;
+}
+
+.slides {
+	margin-left: .5em;
+}
+
+.chair {
+	float: right;
+	font-weight: normal;
+	padding-right: 2em;
+}
+</style>
+
+
+
+<!--
+<h2 style="color:rgb(130,0,0);border-bottom-width:3px;border-bottom-style:solid;border-bottom-color:rgb(130,0,0);width:222px;font-weight:300;font-family:Arial,Helvetica,FreeSans,sans-serif">
+   <a name="SBC-Program"></a> <font size="4">Program</font>
+</h2>
+-->
+
+<table class="program">
+<tbody>
+
+<tr><td colspan="2" class="empty"> </td></tr>
+<tr>
+  <td colspan="2" class="day"> Wedensday, Aug. 7, 2024
+ </td>
+</tr>
+
+<tr>
+  <td class="time"> 9:00am </td>
+  <td class="lecture">
+    <div class="lectitle">
+      Welcome remarks
+  
+    </div>
+    <div class="authors"> 
+      SBC Program Chairs
+    </div>
+  </td>
+</tr>
+
+<tr>
+  <td colspan="2" class="session"> 
+      Session 1: &nbsp; Smart contracts
+ 
+      <span class="chair">session chair: TBD
+</span>
+  </td>
+</tr>
+
+<tr>
+  <td class="time"> 9:10am </td>
+  <td class="lecture">
+    <div class="lectitle">
+      invited: TBD
+  
+    </div>
+    <div class="authors"> 
+      Ed Felten (Arbitrum)
+    </div>
+  </td>
+</tr>
+
+<tr>
+  <td class="time"> 9:40am </td>
+  <td class="lecture">
+    <div class="lectitle">
+      Mitigating Smart Contract Attacks in the Real World
+  
+    </div>
+    <div class="authors"> 
+      Chaofan Shou (UC Berkeley)
+    </div>
+  </td>
+</tr>
+
+<tr>
+  <td class="time"> 10:10am </td>
+  <td class="lecture">
+    <div class="lectitle">
+      Understanding Ethereum Mempool Security under Asymmetric DoS by Symbolized Stateful Fuzzing 
+  
+    </div>
+    <div class="authors"> 
+      Yibo Wang (Syracuse University), Yuzhe Tang (Syracuse University), Wanning Ding (Syracuse University), Kai Li (San Diego State University)
+    </div>
+  </td>
+</tr>
+
+<tr class="break">
+  <td class="time"> 10:40am </td>
+  <td class="lecture"> <div class="lectitle"> Break
+ </div> </td>
+</tr>
+
+<tr>
+  <td colspan="2" class="session"> 
+      Session 2: &nbsp; Cryptography
+ 
+      <span class="chair">session chair: TBD
+</span>
+  </td>
+</tr>
+
+<tr>
+  <td class="time"> 11:10am </td>
+  <td class="lecture">
+    <div class="lectitle">
+      Proxying is Enough: Security of Proxying in TLS Oracles and AEAD Context Unforgeability
+  
+    </div>
+    <div class="authors"> 
+      Zhongtang Luo (Purdue University), Yanxue Jia (Purdue University), Yaobin Shen (Xiamen University), Aniket Kate (Purdue University / Supra Research)
+    </div>
+  </td>
+</tr>
+
+<tr>
+  <td class="time"> 11:40am </td>
+  <td class="lecture">
+    <div class="lectitle">
+      Distributed Randomness using Weighted VRFs
+  
+    </div>
+    <div class="authors"> 
+      Sourav Das (University of Illinois at Urbana Champaign), Benny Pinkas (Aptos Labs, Bar Ilan University), Alin Tomescu (Aptos Labs), Zhuolun Xiang (Aptos)
+    </div>
+  </td>
+</tr>
+
+<tr>
+  <td class="time"> 12:10pm </td>
+  <td class="lecture">
+    <div class="lectitle">
+      Accountability for Misbehavior in Threshold Decryption via Threshold Traitor Tracing
+  
+    </div>
+    <div class="authors"> 
+      Dan Boneh (Stanford University), Aditi Partap (Stanford University), Lior Rotem (Stanford University) 
+    </div>
+  </td>
+</tr>
+
+<tr class="break">
+  <td class="time"> 12:40pm </td>
+  <td class="lecture"> <div class="lectitle"> Lunch
+ </div> </td>
+</tr>
+
+<tr>
+  <td colspan="2" class="session"> 
+      Session 3: &nbsp; Consensus I
+ 
+      <span class="chair">session chair: TBD
+</span>
+  </td>
+</tr>
+
+<tr>
+  <td class="time"> 2:00pm </td>
+  <td class="lecture">
+    <div class="lectitle">
+      The Economic Limits of Permissionless Consensus
+  
+    </div>
+    <div class="authors"> 
+      Eric Budish (University of Chicago), Andrew Lewis-Pye (London School of Economics), Tim Roughgarden (Columbia University & a16z crypto)
+    </div>
+  </td>
+</tr>
+
+<tr>
+  <td class="time"> 2:30pm </td>
+  <td class="lecture">
+    <div class="lectitle">
+      The Espresso Sequencer: HotShot Consensus, Tiramisu Data-Availability, and Builder-Exchange
+  
+    </div>
+    <div class="authors"> 
+      Philippe Camacho (Espresso Systems), et al.
+    </div>
+  </td>
+</tr>
+
+<tr class="break">
+  <td class="time"> 3:00pm </td>
+  <td class="lecture"> <div class="lectitle"> Break
+ </div> </td>
+</tr>
+
+<tr>
+  <td colspan="2" class="session"> 
+      Session 4: &nbsp; MEV
+ 
+      <span class="chair">session chair: TBD
+</span>
+  </td>
+</tr>
+
+<tr>
+  <td class="time"> 3:30pm </td>
+  <td class="lecture">
+    <div class="lectitle">
+      WIP: PROF: Protected Order Flow in a Profit-Seeking World
+  
+    </div>
+    <div class="authors"> 
+      Kushal Babel (Cornell Tech, IC3), et al.
+    </div>
+  </td>
+</tr>
+
+<tr>
+  <td class="time"> 4:00pm </td>
+  <td class="lecture">
+    <div class="lectitle">
+      Decentralization of MEV-Boost Auctions
+  
+    </div>
+    <div class="authors"> 
+      Sen Yang (Yale University), Fan Zhang (Yale University), Kartik Nayak (Duke University)
+    </div>
+  </td>
+</tr>
+
+<tr>
+  <td colspan="2" class="session"> 
+      Session 5: &nbsp; Crypto Policy
+ 
+      <span class="chair">session chair: Dan Boneh
+</span>
+  </td>
+</tr>
+
+<tr>
+  <td class="time"> 4:30pm </td>
+  <td class="lecture">
+    <div class="lectitle">
+      invited: a Convesation With Chris Dixon
+  
+    </div>
+    <div class="authors"> 
+      Chris Dixon (A16Z)
+    </div>
+  </td>
+</tr>
+
+<tr class="break">
+  <td class="time"> 5:00pm </td>
+  <td class="lecture"> <div class="lectitle"> End of day one
+ </div> </td>
+</tr>
+
+<tr class="break">
+  <td class="time"> 5:20pm </td>
+  <td class="lecture"> <div class="lectitle"> Reception
+ </div> </td>
+</tr>
+
+<tr class="break">
+  <td class="time"> 7:00pm </td>
+  <td class="lecture"> <div class="lectitle"> Evening meetups
+ </div> </td>
+</tr>
+
+<tr><td colspan="2" class="empty"> </td></tr>
+<tr>
+  <td colspan="2" class="day"> Thursday, Aug. 8, 2024
+ </td>
+</tr>
+
+<tr>
+  <td colspan="2" class="session"> 
+      Session 6: &nbsp; Consensus II
+ 
+      <span class="chair">session chair: TBD
+</span>
+  </td>
+</tr>
+
+<tr>
+  <td class="time"> 9:00am </td>
+  <td class="lecture">
+    <div class="lectitle">
+      Optimal Flexible Consensus and its Application to Ethereum
+  
+    </div>
+    <div class="authors"> 
+      Joachim Neu (Stanford University), Srivatsan Sridhar (Stanford University), Lei Yang (MIT CSAIL), David Tse (Stanford University and BabylonChain)
+    </div>
+  </td>
+</tr>
+
+<tr>
+  <td class="time"> 9:30am </td>
+  <td class="lecture">
+    <div class="lectitle">
+      Asynchronous Consensus without Trusted Setup or Public-Key Cryptography
+  
+    </div>
+    <div class="authors"> 
+      Sourav Das (University of Illinois at Urbana Champaign), Sisi Duan (Tsinghua University), Shengqi Liu (Southern University of Science and Technology), Atsuki Momose (UIUC), Ling Ren (UIUC), Victor Shoup (Offchain Labs)
+    </div>
+  </td>
+</tr>
+
+<tr>
+  <td class="time"> 10:00am </td>
+  <td class="lecture">
+    <div class="lectitle">
+      Security–Throughput Tradeoff of Nakamoto Consensus under Bandwidth Constraints
+  
+    </div>
+    <div class="authors"> 
+      Lucianna Kiffer (ETH Zurich), Joachim Neu (Stanford University), Srivatsan Sridhar (Stanford University), Aviv Zohar (Hebrew University of Jerusalem), David Tse (Stanford University)
+    </div>
+  </td>
+</tr>
+
+<tr class="break">
+  <td class="time"> 10:30am </td>
+  <td class="lecture"> <div class="lectitle"> Break
+ </div> </td>
+</tr>
+
+<tr>
+  <td colspan="2" class="session"> 
+      Session 7: &nbsp; DeFi I
+ 
+      <span class="chair">session chair: TBD
+</span>
+  </td>
+</tr>
+
+<tr>
+  <td class="time"> 11:00am </td>
+  <td class="lecture">
+    <div class="lectitle">
+      Suboptimality in DeFi
+  
+    </div>
+    <div class="authors"> 
+      Aviv Yaish (The Hebrew University), Maya Dotan (The Hebrew University), Kaihua Qin (Imperial College London, Berkeley RDI), Aviv Zohar (Hebrew University of Jerusalem), Arthur Gervais (UCL)
+    </div>
+  </td>
+</tr>
+
+<tr>
+  <td class="time"> 11:30am </td>
+  <td class="lecture">
+    <div class="lectitle">
+      Multidimensional Blockchain Fees are (Essentially) Optimal
+  
+    </div>
+    <div class="authors"> 
+      Guillermo Angeris (Bain Capital Crypto), Theo Diamandis (MIT), Ciamac Moallemi (Columbia Univ.)
+    </div>
+  </td>
+</tr>
+
+<tr>
+  <td colspan="2" class="session"> 
+      Session 8: &nbsp; Lightening talks
+ 
+      <span class="chair">session chair: Benedikt Buenz
+</span>
+  </td>
+</tr>
+
+<tr>
+  <td class="time"> 12:00pm </td>
+  <td class="lecture">
+    <div class="lectitle">
+      Lightning talks
+  
+    </div>
+    <div class="authors"> 
+      Short 5 minute talks by the participants
+    </div>
+  </td>
+</tr>
+
+<tr class="break">
+  <td class="time"> 12:30pm </td>
+  <td class="lecture"> <div class="lectitle"> Lunch
+ </div> </td>
+</tr>
+
+<tr>
+  <td colspan="2" class="session"> 
+      Session 9: &nbsp; Restaking and data management
+ 
+      <span class="chair">session chair: TBD
+</span>
+  </td>
+</tr>
+
+<tr>
+  <td class="time"> 2:00pm </td>
+  <td class="lecture">
+    <div class="lectitle">
+      invited: TBD
+  
+    </div>
+    <div class="authors"> 
+      Sreeram Kannan (Eigenlayer)
+    </div>
+  </td>
+</tr>
+
+<tr>
+  <td class="time"> 2:30pm </td>
+  <td class="lecture">
+    <div class="lectitle">
+      Atomic and Fair Data Exchange via Blockchain
+  
+    </div>
+    <div class="authors"> 
+      Ertem Nusret Tas (Stanford University), István András Seres (Eötvös Loránd University), Yinuo Zhang (UC Berkeley), Márk Melczer (Eötvös Loránd University), Mahimna Kelkar (Cornell University and Cornell Tech), Joseph Bonneau (a16z crypto research & New York University), Valeria Nikolaenko (a16 crypto research)
+    </div>
+  </td>
+</tr>
+
+<tr>
+  <td class="time"> 3:00pm </td>
+  <td class="lecture">
+    <div class="lectitle">
+      Kadabra: Adapting Kademlia for the Decentralized Web
+  
+    </div>
+    <div class="authors"> 
+      Yunqi Zhang (Ohio State University), Shaileshh Bojja Venkatakrishnan (Ohio State University)
+    </div>
+  </td>
+</tr>
+
+<tr class="break">
+  <td class="time"> 3:30pm </td>
+  <td class="lecture"> <div class="lectitle"> Break
+ </div> </td>
+</tr>
+
+<tr>
+  <td colspan="2" class="session"> 
+      Session 10: &nbsp; Efficient SNARKs 
+ 
+      <span class="chair">session chair: Dan Boneh
+</span>
+  </td>
+</tr>
+
+<tr>
+  <td class="time"> 4:00pm </td>
+  <td class="lecture">
+    <div class="lectitle">
+      SoK: What don’t we know? Understanding Security Vulnerabilities in SNARKs
+  
+    </div>
+    <div class="authors"> 
+      Stefanos Chaliasos (Imperial College London), Jens Ernstberger (Technical University of Munich), David Theodore (Ethereum Foundation), David Wong (zkSecurity), Mohammad Jahanara (Scroll Foundation), Benjamin Livshits (Imperial College London)
+    </div>
+  </td>
+</tr>
+
+<tr>
+  <td class="time"> 4:30pm </td>
+  <td class="lecture">
+    <div class="lectitle">
+      LatticeFold: A Lattice-based Folding Scheme and its Applications to Succinct Proof Systems
+  
+    </div>
+    <div class="authors"> 
+      Binyi Chen (Stanford University), Dan Boneh (Stanford University)
+    </div>
+  </td>
+</tr>
+
+<tr>
+  <td class="time"> 5:00pm </td>
+  <td class="lecture">
+    <div class="lectitle">
+      State of Stwo
+  
+    </div>
+    <div class="authors"> 
+      Eli Ben-Sasson (StarkWare)
+    </div>
+  </td>
+</tr>
+
+<tr class="break">
+  <td class="time"> 5:30pm </td>
+  <td class="lecture"> <div class="lectitle"> End of day two
+ </div> </td>
+</tr>
+
+<tr class="break">
+  <td class="time"> 6:30pm </td>
+  <td class="lecture"> <div class="lectitle"> Evening meetups
+ </div> </td>
+</tr>
+
+<tr><td colspan="2" class="empty"> </td></tr>
+<tr>
+  <td colspan="2" class="day"> Friday, Aug. 9, 2024
+ </td>
+</tr>
+
+<tr>
+  <td colspan="2" class="session"> 
+      Session 11: &nbsp; New cryptographic primitives
+ 
+      <span class="chair">session chair: TBD
+</span>
+  </td>
+</tr>
+
+<tr>
+  <td class="time"> 9:00am </td>
+  <td class="lecture">
+    <div class="lectitle">
+      Non-interactive VSS using Class Groups and Application to DKG
+  
+    </div>
+    <div class="authors"> 
+      Aniket Kate (Purdue University / Supra Research), Easwar Vivek Mangipudi (Supra Research), Pratyay Mukherjee (Supra Research), Hamza Saleem (Supra Research), Sri AravindaKrishnan Thyagarajan (University of Sidney)
+    </div>
+  </td>
+</tr>
+
+<tr>
+  <td class="time"> 9:30am </td>
+  <td class="lecture">
+    <div class="lectitle">
+      Bitcoin Clique: Channel-free Off-chain Payments using Two-Shot Adaptor Signatures
+  
+    </div>
+    <div class="authors"> 
+      Orfeas Stefanos Thyfronitis Litos (Imperial College London and Common Prefix), Siavash Riahi (TU Darmstadt)
+    </div>
+  </td>
+</tr>
+
+<tr class="break">
+  <td class="time"> 10:00am </td>
+  <td class="lecture"> <div class="lectitle"> Break
+ </div> </td>
+</tr>
+
+<tr>
+  <td colspan="2" class="session"> 
+      Session 12: &nbsp; DAOs and more
+ 
+      <span class="chair">session chair: TBD
+</span>
+  </td>
+</tr>
+
+<tr>
+  <td class="time"> 10:30am </td>
+  <td class="lecture">
+    <div class="lectitle">
+      Open Problems in DAOs
+  
+    </div>
+    <div class="authors"> 
+      Joshua Tan (Metagov and University of Oxford), et al.
+    </div>
+  </td>
+</tr>
+
+<tr>
+  <td class="time"> 11:00am </td>
+  <td class="lecture">
+    <div class="lectitle">
+      WIP: Efficient Block-Auditing for Blockchains
+  
+    </div>
+    <div class="authors"> 
+      Jeff Burdges (Web3 Foundation), et al.
+    </div>
+  </td>
+</tr>
+
+<tr class="break">
+  <td class="time"> 11:30am </td>
+  <td class="lecture"> <div class="lectitle"> Lunch
+ </div> </td>
+</tr>
+
+<tr>
+  <td colspan="2" class="session"> 
+      Session 13: &nbsp; Wallets
+ 
+      <span class="chair">session chair: TBD
+</span>
+  </td>
+</tr>
+
+<tr>
+  <td class="time"> 1:00pm </td>
+  <td class="lecture">
+    <div class="lectitle">
+      invited:  MPC for custody at coinbase
+  
+    </div>
+    <div class="authors"> 
+      Yehuda Lindel (Coinbase)
+    </div>
+  </td>
+</tr>
+
+<tr>
+  <td class="time"> 1:30pm </td>
+  <td class="lecture">
+    <div class="lectitle">
+      zkLogin: Privacy-Preserving Blockchain Authentication with Existing Credentials
+  
+    </div>
+    <div class="authors"> 
+      Deepak Maram (Mysten Labs), Arnab Roy (Mysten Labs), Kostas Kryptos Chalkias (Mysten Labs)
+    </div>
+  </td>
+</tr>
+
+<tr>
+  <td class="time"> 2:00pm </td>
+  <td class="lecture">
+    <div class="lectitle">
+      Complete Knowledge: Preventing Encumbrance of Cryptographic Secrets
+  
+    </div>
+    <div class="authors"> 
+      Mahimna Kelkar (Cornell Tech), Kushal Babel (Cornell Tech), Philip Daian (Cornell Tech), James Austgen (Cornell Tech), Vitalik Buterin (Ethereum Foundation), Ari Juels (Cornell Tech)
+    </div>
+  </td>
+</tr>
+
+<tr>
+  <td class="time"> 2:30pm </td>
+  <td class="lecture">
+    <div class="lectitle">
+      Uncovering Impact of Mental Models towards Adoption of Multi-device Threshold Crypto-Wallets
+  
+    </div>
+    <div class="authors"> 
+      Easwar Vivek Mangipudi (Supra Research), Udit Desai (Indian Institute of Technology, Kharagpur), Mohsen Minaei (Visa Research), Mainack Mondal (Indian Institute of Technology, Kharagpur), Aniket Kate (Purdue University / Supra Research) 
+    </div>
+  </td>
+</tr>
+
+<tr class="break">
+  <td class="time"> 3:00pm </td>
+  <td class="lecture"> <div class="lectitle"> Break
+ </div> </td>
+</tr>
+
+<tr>
+  <td colspan="2" class="session"> 
+      Session 14: &nbsp; DeFi II
+ 
+      <span class="chair">session chair: TBD
+</span>
+  </td>
+</tr>
+
+<tr>
+  <td class="time"> 3:30pm </td>
+  <td class="lecture">
+    <div class="lectitle">
+      Cycles Protocol: A Peer-to-Peer Electronic Clearing System
+  
+    </div>
+    <div class="authors"> 
+      Ethan Buchman (Informal Systems), Paolo Dini (Informal Systems), Shoaib Ahmed (Informal Systems), Andrew Miller (Informal Systems), Tomaz Fleischman (Informal Systems)
+    </div>
+  </td>
+</tr>
+
+<tr>
+  <td class="time"> 4:00pm </td>
+  <td class="lecture">
+    <div class="lectitle">
+      Dynamic Transaction Fee Mechanism Design
+  
+    </div>
+    <div class="authors"> 
+      Mallesh Pai (Rice University, Consensys), Max Resnick (Consensys) 
+    </div>
+  </td>
+</tr>
+
+<tr>
+  <td class="time"> 4:30pm </td>
+  <td class="lecture">
+    <div class="lectitle">
+      Rapidash: Atomic Swaps Secure under User-Miner Collusion
+  
+    </div>
+    <div class="authors"> 
+      Hao Chung (Carnegie Mellon University), Elisaweta Masserova (Carnegie Mellon University), Elaine Shi (Carnegie Mellon University), Sri AravindaKrishnan Thyagarajan (NTT Research)
+    </div>
+  </td>
+</tr>
+
+<tr class="break">
+  <td class="time"> 5:00pm </td>
+  <td class="lecture"> <div class="lectitle"> Conference ends ... see you next year
+ </div> </td>
+</tr>
+
+
+</tbody>
+</table>
+
+<!-- COPY TO HERE -->
+
+</body>
+</html>
