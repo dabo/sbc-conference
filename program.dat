@@ -1,6 +1,6 @@
 %-----------------------------------------------------------
 <DAY>
-Wedensday, Aug. 7, 2024
+Wednesday, Aug. 7, 2024
 
 <LECTURE>
 10
@@ -29,7 +29,7 @@ NOURL
 <LECTURE>
 30
 Understanding Ethereum Mempool Security under Asymmetric DoS by Symbolized Stateful Fuzzing 
-Yibo Wang (Syracuse University), Yuzhe Tang (Syracuse University), Wanning Ding (Syracuse University), Kai Li (San Diego State University)
+Yibo Wang (Syracuse University), Yuzhe Tang (Syracuse University), Wanning Ding (Syracuse University), Kai Li (San Diego State University), Zhihua Yang (Syracuse University) 
 NOURL
 
 <BREAK>
@@ -183,7 +183,7 @@ NOURL
 %------  Lightning talks  ------
 
 <SESSION>
-Lightening talks
+Lightning talks
 Benedikt Buenz
 
 <LECTURE>
@@ -315,7 +315,7 @@ Wallets
 
 <LECTURE>
 30
-invited:  MPC for custody at coinbase
+invited:  MPC for custody at Coinbase
 Yehuda Lindel (Coinbase)
 NOURL
 
