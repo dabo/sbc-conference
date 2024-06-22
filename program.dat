@@ -92,32 +92,31 @@ Break
 %------------
 
 <SESSION>
-MEV
-TBD
-
-<LECTURE>
-30
-WIP: PROF: Protected Order Flow in a Profit-Seeking World
-Kushal Babel (Cornell Tech, IC3), et al.
-NOURL
-
-<LECTURE>
-30
-Decentralization of MEV-Boost Auctions
-Sen Yang (Yale University), Fan Zhang (Yale University), Kartik Nayak (Duke University)
-NOURL
-
-
-%----- ------
-
-<SESSION>
-Crypto Policy
+Efficient SNARKs 
 Dan Boneh
 
 <LECTURE>
 30
-invited: a Convesation With Chris Dixon
-Chris Dixon (A16Z)
+SoK: What don’t we know? Understanding Security Vulnerabilities in SNARKs
+Stefanos Chaliasos (Imperial College London), Jens Ernstberger (Technical University of Munich), David Theodore (Ethereum Foundation), David Wong (zkSecurity), Mohammad Jahanara (Scroll Foundation), Benjamin Livshits (Imperial College London)
+NOURL
+
+<LECTURE>
+30
+zkLogin: Privacy-Preserving Blockchain Authentication with Existing Credentials
+Deepak Maram (Mysten Labs), Arnab Roy (Mysten Labs), Kostas Kryptos Chalkias (Mysten Labs)
+NOURL
+
+<LECTURE>
+30
+State of Stwo
+Eli Ben-Sasson (StarkWare)
+NOURL
+
+<LECTURE>
+30
+LatticeFold: A Lattice-based Folding Scheme and its Applications to Succinct Proof Systems
+Binyi Chen (Stanford University), Dan Boneh (Stanford University)
 NOURL
 
 <BREAK>
@@ -138,26 +137,27 @@ Evening meetups
 Thursday, Aug. 8, 2024
 
 <SESSION>
-Consensus II
+Wallets
 TBD
 
 <LECTURE>
 30
-Optimal Flexible Consensus and its Application to Ethereum
-Joachim Neu (Stanford University), Srivatsan Sridhar (Stanford University), Lei Yang (MIT CSAIL), David Tse (Stanford University and BabylonChain)
+Complete Knowledge: Preventing Encumbrance of Cryptographic Secrets
+Mahimna Kelkar (Cornell Tech), Kushal Babel (Cornell Tech), Philip Daian (Cornell Tech), James Austgen (Cornell Tech), Vitalik Buterin (Ethereum Foundation), Ari Juels (Cornell Tech)
 NOURL
 
 <LECTURE>
 30
-Asynchronous Consensus without Trusted Setup or Public-Key Cryptography
-Sourav Das (University of Illinois at Urbana Champaign), Sisi Duan (Tsinghua University), Shengqi Liu (Southern University of Science and Technology), Atsuki Momose (UIUC), Ling Ren (UIUC), Victor Shoup (Offchain Labs)
+Uncovering Impact of Mental Models towards Adoption of Multi-device Threshold Crypto-Wallets
+Easwar Vivek Mangipudi (Supra Research), Udit Desai (Indian Institute of Technology, Kharagpur), Mohsen Minaei (Visa Research), Mainack Mondal (Indian Institute of Technology, Kharagpur), Aniket Kate (Purdue University / Supra Research) 
 NOURL
 
 <LECTURE>
 30
-Security–Throughput Tradeoff of Nakamoto Consensus under Bandwidth Constraints
-Lucianna Kiffer (ETH Zurich), Joachim Neu (Stanford University), Srivatsan Sridhar (Stanford University), Aviv Zohar (Hebrew University of Jerusalem), David Tse (Stanford University)
+invited:  MPC for custody at Coinbase
+Yehuda Lindell (Coinbase)
 NOURL
+
 
 <BREAK>
  30
@@ -227,26 +227,34 @@ Break
 
 %--------------
 
+
 <SESSION>
-Efficient SNARKs 
+MEV
+TBD
+
+<LECTURE>
+30
+WIP: PROF: Protected Order Flow in a Profit-Seeking World
+Kushal Babel (Cornell Tech, IC3), et al.
+NOURL
+
+<LECTURE>
+30
+Decentralization of MEV-Boost Auctions
+Sen Yang (Yale University), Fan Zhang (Yale University), Kartik Nayak (Duke University)
+NOURL
+
+
+%----- ------
+
+<SESSION>
+Crypto Policy
 Dan Boneh
 
 <LECTURE>
 30
-SoK: What don’t we know? Understanding Security Vulnerabilities in SNARKs
-Stefanos Chaliasos (Imperial College London), Jens Ernstberger (Technical University of Munich), David Theodore (Ethereum Foundation), David Wong (zkSecurity), Mohammad Jahanara (Scroll Foundation), Benjamin Livshits (Imperial College London)
-NOURL
-
-<LECTURE>
-30
-LatticeFold: A Lattice-based Folding Scheme and its Applications to Succinct Proof Systems
-Binyi Chen (Stanford University), Dan Boneh (Stanford University)
-NOURL
-
-<LECTURE>
-30
-State of Stwo
-Eli Ben-Sasson (StarkWare)
+invited: a conversation about crypto policy
+Chris Dixon (A16Z)
 NOURL
 
 <BREAK>
@@ -308,33 +316,25 @@ Lunch
 %-----------
 
 <SESSION>
-Wallets
+Consensus II
 TBD
 
-Wallets
-
 <LECTURE>
 30
-invited:  MPC for custody at Coinbase
-Yehuda Lindel (Coinbase)
+Optimal Flexible Consensus and its Application to Ethereum
+Joachim Neu (Stanford University), Srivatsan Sridhar (Stanford University), Lei Yang (MIT CSAIL), David Tse (Stanford University and BabylonChain)
 NOURL
 
 <LECTURE>
 30
-zkLogin: Privacy-Preserving Blockchain Authentication with Existing Credentials
-Deepak Maram (Mysten Labs), Arnab Roy (Mysten Labs), Kostas Kryptos Chalkias (Mysten Labs)
+Asynchronous Consensus without Trusted Setup or Public-Key Cryptography
+Sourav Das (University of Illinois at Urbana Champaign), Sisi Duan (Tsinghua University), Shengqi Liu (Southern University of Science and Technology), Atsuki Momose (UIUC), Ling Ren (UIUC), Victor Shoup (Offchain Labs)
 NOURL
 
 <LECTURE>
 30
-Complete Knowledge: Preventing Encumbrance of Cryptographic Secrets
-Mahimna Kelkar (Cornell Tech), Kushal Babel (Cornell Tech), Philip Daian (Cornell Tech), James Austgen (Cornell Tech), Vitalik Buterin (Ethereum Foundation), Ari Juels (Cornell Tech)
-NOURL
-
-<LECTURE>
-30
-Uncovering Impact of Mental Models towards Adoption of Multi-device Threshold Crypto-Wallets
-Easwar Vivek Mangipudi (Supra Research), Udit Desai (Indian Institute of Technology, Kharagpur), Mohsen Minaei (Visa Research), Mainack Mondal (Indian Institute of Technology, Kharagpur), Aniket Kate (Purdue University / Supra Research) 
+Security–Throughput Tradeoff of Nakamoto Consensus under Bandwidth Constraints
+Lucianna Kiffer (ETH Zurich), Joachim Neu (Stanford University), Srivatsan Sridhar (Stanford University), Aviv Zohar (Hebrew University of Jerusalem), David Tse (Stanford University)
 NOURL
 
 <BREAK>
