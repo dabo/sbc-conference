@@ -104,7 +104,7 @@ NOURL
 <LECTURE>
 30
 zkLogin: Privacy-Preserving Blockchain Authentication with Existing Credentials
-Deepak Maram (Mysten Labs), Arnab Roy (Mysten Labs), Kostas Kryptos Chalkias (Mysten Labs)
+Foteini Baldimtsi (George Mason U. and Mysten Labs), Kostas Kryptos Chalkias (Mysten Labs), Yan Ji (Cornell), Jonas Lindstrom (Mysten Labs), Deepak Maram (Mysten Labs), Ben Riva (Mysten Labs), Arnab Roy (Mysten Labs), Mahdi Sedaghat (COSIC, KU Leuven), and Joy Wang (Mysten Labs)
 NOURL
 
 <LECTURE>
@@ -333,7 +333,7 @@ NOURL
 
 <LECTURE>
 30
-Security–Throughput Tradeoff of Nakamoto Consensus under Bandwidth Constraints
+Nakamoto Consensus under Bounded Processing Capacity
 Lucianna Kiffer (ETH Zurich), Joachim Neu (Stanford University), Srivatsan Sridhar (Stanford University), Aviv Zohar (Hebrew University of Jerusalem), David Tse (Stanford University)
 NOURL
 
