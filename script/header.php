@@ -1,7 +1,7 @@
 <html>
 <body>
 
-<!---  copy from here  -->
+<!---  generated file; do not change manually -->
 
 <style>
 table.program {
