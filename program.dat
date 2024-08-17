@@ -18,19 +18,19 @@ Fan Zhang
 30
 invited: Permissionless Validation Using the BoLD Protocol
 Ed Felten (Arbitrum)
-NOURL
+https://www.youtube.com/watch?v=9uQMI7wBoM4
 
 <LECTURE>
 30
 Mitigating Smart Contract Attacks in the Real World
 Chaofan Shou (UC Berkeley)
-NOURL
+https://www.youtube.com/watch?v=wP07Qu6RPXs
 
 <LECTURE>
 30
 Understanding Ethereum Mempool Security under Asymmetric DoS by Symbolized Stateful Fuzzing 
 Yibo Wang (Syracuse University), Yuzhe Tang (Syracuse University), Wanning Ding (Syracuse University), Kai Li (San Diego State University), Zhihua Yang (Syracuse University) 
-NOURL
+https://www.youtube.com/watch?v=0aA4NFz7eoo
 
 <BREAK>
  30
@@ -47,19 +47,19 @@ Sourav Das
 30
 Proxying is Enough: Security of Proxying in TLS Oracles and AEAD Context Unforgeability
 Zhongtang Luo (Purdue University), Yanxue Jia (Purdue University), Yaobin Shen (Xiamen University), Aniket Kate (Purdue University / Supra Research)
-NOURL
+https://www.youtube.com/watch?v=xcA3o2NGlfw
 
 <LECTURE>
 30
 Distributed Randomness using Weighted VRFs
 Sourav Das (University of Illinois at Urbana Champaign), Benny Pinkas (Aptos Labs, Bar Ilan University), Alin Tomescu (Aptos Labs), Zhuolun Xiang (Aptos)
-NOURL
+https://www.youtube.com/watch?v=Vpjpjr0B-iI
 
 <LECTURE>
 30
 Accountability for Misbehavior in Threshold Decryption via Threshold Traitor Tracing
 Dan Boneh (Stanford University), Aditi Partap (Stanford University), Lior Rotem (Stanford University) 
-NOURL
+https://www.youtube.com/watch?v=KlOlOMOE7XM
 
 
 <BREAK>
@@ -76,13 +76,13 @@ Christian Cachin
 30
 The Economic Limits of Permissionless Consensus
 Eric Budish (University of Chicago), Andrew Lewis-Pye (London School of Economics), Tim Roughgarden (Columbia University & a16z crypto)
-NOURL
+https://www.youtube.com/watch?v=TGoT5Ltqizo
 
 <LECTURE>
 30
 The Espresso Sequencing Network: HotShot Consensus, Tiramisu Data-Availability, and Builder-Exchange
 Ellie Davidson (Espresso Systems), et al.
-NOURL
+https://www.youtube.com/watch?v=RUkGr3c9_JM
 
 <BREAK>
  30
@@ -99,25 +99,25 @@ Dan Boneh
 30
 SoK: What don’t we know? Understanding Security Vulnerabilities in SNARKs
 Stefanos Chaliasos (Imperial College London), Jens Ernstberger (Technical University of Munich), David Theodore (Ethereum Foundation), David Wong (zkSecurity), Mohammad Jahanara (Scroll Foundation), Benjamin Livshits (Imperial College London)
-NOURL
+https://www.youtube.com/watch?v=gWtd4ytpi2o
 
 <LECTURE>
 30
 zkLogin: Privacy-Preserving Blockchain Authentication with Existing Credentials
 Foteini Baldimtsi (George Mason U. and Mysten Labs), Kostas Kryptos Chalkias (Mysten Labs), Yan Ji (Cornell), Jonas Lindstrom (Mysten Labs), Deepak Maram (Mysten Labs), Ben Riva (Mysten Labs), Arnab Roy (Mysten Labs), Mahdi Sedaghat (COSIC, KU Leuven), and Joy Wang (Mysten Labs)
-NOURL
+https://www.youtube.com/watch?v=zwZUvG8Ga4I
 
 <LECTURE>
 30
 State of Stwo
 Eli Ben-Sasson (StarkWare)
-NOURL
+https://www.youtube.com/watch?v=Gs2HwJIgdxc
 
 <LECTURE>
 30
 LatticeFold: A Lattice-based Folding Scheme and its Applications to Succinct Proof Systems
 Binyi Chen (Stanford University), Dan Boneh (Stanford University)
-NOURL
+https://www.youtube.com/watch?v=2k-qJRX90NI
 
 <BREAK>
  00
@@ -144,19 +144,19 @@ Alin Tomescu
 30
 Complete Knowledge: Preventing Encumbrance of Cryptographic Secrets
 Mahimna Kelkar (Cornell University and Cornell Tech), Kushal Babel (Cornell Tech), Philip Daian (Cornell Tech), James Austgen (Cornell Tech), Vitalik Buterin (Ethereum Foundation), Ari Juels (Cornell Tech)
-NOURL
+https://www.youtube.com/watch?v=fKb6DSq0Q_I
 
 <LECTURE>
 30
 Uncovering Impact of Mental Models towards Adoption of Multi-device Threshold Crypto-Wallets
 Easwar Vivek Mangipudi (Supra Research), Udit Desai (Indian Institute of Technology, Kharagpur), Mohsen Minaei (Visa Research), Mainack Mondal (Indian Institute of Technology, Kharagpur), Aniket Kate (Purdue University / Supra Research) 
-NOURL
+https://www.youtube.com/watch?v=lgOt_Ezui3U
 
 <LECTURE>
 30
 invited:  MPC for custody at Coinbase
 Yehuda Lindell (Coinbase)
-NOURL
+https://www.youtube.com/watch?v=nvlYlnOMsZQ
 
 
 <BREAK>
@@ -171,13 +171,13 @@ Giulia Fanti
 30
 Suboptimality in DeFi
 Aviv Yaish (The Hebrew University), Maya Dotan (The Hebrew University), Kaihua Qin (Imperial College London, Berkeley RDI), Aviv Zohar (Hebrew University of Jerusalem), Arthur Gervais (UCL)
-NOURL
+https://www.youtube.com/watch?v=uwaXIQOi_uw
 
 <LECTURE>
 30
 Multidimensional Blockchain Fees are (Essentially) Optimal
 Guillermo Angeris (Bain Capital Crypto), Theo Diamandis (MIT), Ciamac Moallemi (Columbia Univ.)
-NOURL
+https://www.youtube.com/watch?v=wq-zZL83co0
 
 
 %------  Lightning talks  ------
@@ -190,7 +190,7 @@ Joachim Neu
 30
 Lightning talks
 Short 3 minute talks by the participants (no registration needed)
-NOURL
+https://www.youtube.com/watch?v=GoAO2MNU0Oo
 
 <BREAK>
  90
@@ -206,19 +206,19 @@ Ari Juels
 30
 invited: Strong Cryptoeconomic Security for Arbitrary Validation Tasks
 Sreeram Kannan (Eigenlayer)
-NOURL
+https://www.youtube.com/watch?v=9b-MWyQ21XM
 
 <LECTURE>
 30
 Atomic and Fair Data Exchange via Blockchain
 Ertem Nusret Tas (Stanford University), István András Seres (Eötvös Loránd University), Yinuo Zhang (UC Berkeley), Márk Melczer (Eötvös Loránd University), Mahimna Kelkar (Cornell University and Cornell Tech), Joseph Bonneau (a16z crypto research & New York University), Valeria Nikolaenko (a16 crypto research)
-NOURL
+https://www.youtube.com/watch?v=-K-n2A-J6tY
 
 <LECTURE>
 30
 Kadabra: Adapting Kademlia for the Decentralized Web
 Yunqi Zhang (Ohio State University), Shaileshh Bojja Venkatakrishnan (Ohio State University)
-NOURL
+https://www.youtube.com/watch?v=lm2LLfb-oTI
 
 <BREAK>
  30
@@ -234,15 +234,15 @@ Arthur Gervais
 
 <LECTURE>
 30
-WIP: PROF: Protected Order Flow in a Profit-Seeking World
-Kushal Babel (Cornell Tech, IC3), et al.
-NOURL
+Decentralization of MEV-Boost Auctions
+Sen Yang (Yale University), Fan Zhang (Yale University), Kartik Nayak (Duke University)
+https://www.youtube.com/watch?v=bMA5IarPT7Q
 
 <LECTURE>
 30
-Decentralization of MEV-Boost Auctions
-Sen Yang (Yale University), Fan Zhang (Yale University), Kartik Nayak (Duke University)
-NOURL
+WIP: PROF: Protected Order Flow in a Profit-Seeking World
+Kushal Babel (Cornell Tech, IC3), et al.
+https://www.youtube.com/watch?v=VXpUGod6fUs
 
 
 %----- ------

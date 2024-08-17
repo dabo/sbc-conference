@@ -96,7 +96,7 @@ ENDHTML
 ENDHTML
 
 	if (!($url =~ /NOURL/i)) { 
-	    print HTML "      <span class=\"slides\">[<a href=\"$url\">pdf</a>]</span> &nbsp;\n";
+	    print HTML "      <span class=\"slides\">[<a href=\"$url\" target=\"_blank\">video</a>]</span> &nbsp;\n";
 	}
 	    
         print HTML <<ENDHTML;
