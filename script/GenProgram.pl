@@ -14,7 +14,7 @@ $StartTime = 9*60;    # Start time = 9am
 
 $datafile   = shift(@ARGV);
 ($name,$dir,$ext) = fileparse($datafile,'\..*');
-$htmlfile = $dir."docs/".$name.".html";
+$htmlfile = $dir.$name.".html";
 $header = "./script/header.php";
 $footer = "./script/footer.php";
 
