@@ -37,19 +37,19 @@ NOURL
 Break
 
 <SESSION>
-Cryptography for blockchains
-TBD
+Crypto policy and user studies
+Ari Juels
 
 <LECTURE>
 30
-Efficiently-Thresholdizable Batched Identity Based Encryption, and its Applications 
-Amit Agarwal (University of Illinois Urbana-Champaign Champaign); Benny Pinkas (Bar-Ilan University); Rex Fernando (Aptos Labs)
+Invited: TBD
+Hester Peirce (Commissioner at the SEC)
 NOURL
 
 <LECTURE>
 30
-Interactive Multi-Credential Authentication 
-Deepak Maram (Mysten Labs); Mahimna Kelkar (Cornell University); Ittay Eyal (Technion)
+Exploring User Perceptions of Security Auditing in the Web3 Ecosystem 
+Molly Zhuangtong huang, Rui Jiang (University of Macau); Tanusree Sharma (Pennsylvania State University); Kanye Ye Wang (University of Macau)
 NOURL
 
 
@@ -60,74 +60,6 @@ NOURL
 Lunch
 
 %------------
-
-<SESSION>
-Measuring decentralization
-TBD
-
-<LECTURE>
-30
-Voting-Bloc Entropy: A New Metric for DAO Decentralization 
-Andres Fabrega (Cornell University); Amy Zhao (IC3); Jay Yu (Stanford University); James Austgen (Cornell Tech); Sarah Allen (IC3, Flashbots); Kushal Babel (Cornell Tech, Monad Labs); Mahimna Kelkar (Cornell University); Ari Juels (Jacobs Institute, Cornell Tech)
-NOURL
-
-<LECTURE>
-30
-Measuring Blockchain Decentralization 
-Christina Ovezik (University of Edinburgh); Dimitris Karakostas (University of Edinburgh & Common Prefix); Mary Milad (University of Edinburgh); Aggelos Kiayias (University of Edinburgh and IOG); Daniel W Woods (University of Edinburgh)
-NOURL
-
-<LECTURE>
-30
-Invited: TBD
-Hester Peirce (Commissioner at the SEC)
-NOURL
-
-<BREAK>
- 30
-Break
-
-
-%------------
-
-<SESSION>
-Efficient SNARKs 
-Dan Boneh
-
-<LECTURE>
-30
-Dynamic zk-SNARKs 
-Weijie Wang (Yale University); Charalampos Papamanthou (Yale University and Lagrange Labs); Shravan Srinivasan (Lagrange Labs); Dimitrios Papadopoulos (Hong Kong University of Science & Technology)
-NOURL
-
-<LECTURE>
-30
-GARUDA and PARI: Faster and Smaller SNARKs via Equifficient Polynomial Commitments 
-Michel Dellepere (Unaffiliated); Pratyush Mishra, Alireza Shirzad (University of Pennsylvania)
-NOURL
-
-<LECTURE>
-30
-Mercury: a multilinear Polynomial Commitment Scheme Constant constant proof size and linear field work 
-Liam Eagen (Alpen Labs); Ariel Gabizon (Aztec Labs)
-NOURL
-
-<BREAK>
- 00
-End of day one
-
-<BREAK>
- 90
-Reception
-
-<BREAK>
- 00
-Evening meetups
-
-
-%-----------------------------------------------------------
-<DAY>
-Tuesday, Aug. 5, 2025
 
 <SESSION>
 Consensus I
@@ -155,6 +87,67 @@ Permissionless Blockchains from Physical Resources
 Mirza Ahad Baig, Christoph U. Günther, Krzysztof Pietrzak (Institute of Science and Technology Austria)
 NOURL
 
+<BREAK>
+ 30
+Break
+
+
+%------------
+
+<SESSION>
+Efficient SNARKs 
+Dan Boneh
+
+<LECTURE>
+30
+Dynamic zk-SNARKs 
+Weijie Wang (Yale University); Charalampos Papamanthou (Yale University and Lagrange Labs); Shravan Srinivasan (Lagrange Labs); Dimitrios Papadopoulos (Hong Kong University of Science & Technology)
+NOURL
+
+<LECTURE>
+30
+Mercury: a multilinear Polynomial Commitment Scheme Constant constant proof size and linear field work 
+Liam Eagen (Alpen Labs); Ariel Gabizon (Aztec Labs)
+NOURL
+
+<LECTURE>
+30
+GARUDA and PARI: Faster and Smaller SNARKs via Equifficient Polynomial Commitments 
+Michel Dellepere (Unaffiliated); Pratyush Mishra, Alireza Shirzad (University of Pennsylvania)
+NOURL
+
+<BREAK>
+ 00
+End of day one
+
+<BREAK>
+ 90
+Reception
+
+<BREAK>
+ 00
+Evening meetups
+
+
+%-----------------------------------------------------------
+<DAY>
+Tuesday, Aug. 5, 2025
+
+<SESSION>
+Measuring decentralization
+TBD
+
+<LECTURE>
+30
+Voting-Bloc Entropy: A New Metric for DAO Decentralization 
+Andres Fabrega (Cornell University); Amy Zhao (IC3); Jay Yu (Stanford University); James Austgen (Cornell Tech); Sarah Allen (IC3, Flashbots); Kushal Babel (Cornell Tech, Monad Labs); Mahimna Kelkar (Cornell University); Ari Juels (Jacobs Institute, Cornell Tech)
+NOURL
+
+<LECTURE>
+30
+Measuring Blockchain Decentralization 
+Christina Ovezik (University of Edinburgh); Dimitris Karakostas (University of Edinburgh & Common Prefix); Mary Milad (University of Edinburgh); Aggelos Kiayias (University of Edinburgh and IOG); Daniel W Woods (University of Edinburgh)
+NOURL
 
 <BREAK>
  30
@@ -198,15 +191,8 @@ Lunch
 %-----------
 
 <SESSION>
-The real world
+Implementations
 TBD
-
-
-<LECTURE>
-30
-Exploring User Perceptions of Security Auditing in the Web3 Ecosystem 
-Molly Zhuangtong huang, Rui Jiang (University of Macau); Tanusree Sharma (Pennsylvania State University); Kanye Ye Wang (University of Macau)
-NOURL
 
 <LECTURE>
 30
@@ -220,6 +206,20 @@ WIP: BitVM2: Bridging Bitcoin to Second Layers
 Robin Linus Woll (Stanford University & ZeroSync); Lukas Aumayr (University of Edinburgh & Common Prefix); Zeta Avarikioti (TU Wien & Common Prefix); Matteo Maffei (TU Wien & CDL-BOT); Andrea Pelosi (TU Wien, University of Pisa, University of Camerino, Traent & CDL-BOT); Orfeas Stefanos Thyfronitis Litos (Imperial College London & Common Prefix); Christos Stefo (TU Wien); David Tse (Stanford University); Alexei Zamyatin (BOB)
 NOURL
 
+<LECTURE>
+30
+Interactive Multi-Credential Authentication 
+Deepak Maram (Mysten Labs); Mahimna Kelkar (Cornell University); Ittay Eyal (Technion)
+NOURL
+
+<LECTURE>
+30
+Efficiently-Thresholdizable Batched Identity Based Encryption, and its Applications 
+Amit Agarwal (University of Illinois Urbana-Champaign Champaign); Benny Pinkas (Bar-Ilan University); Rex Fernando (Aptos Labs)
+NOURL
+
+
+
 <BREAK>
  30
 Break
@@ -229,7 +229,7 @@ Break
 
 
 <SESSION>
-The state of consensus
+Consensus II
 TBD
 
 <LECTURE>
