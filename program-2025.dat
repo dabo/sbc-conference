@@ -202,12 +202,6 @@ NOURL
 
 <LECTURE>
 30
-WIP: BitVM2: Bridging Bitcoin to Second Layers 
-Robin Linus Woll (Stanford University & ZeroSync); Lukas Aumayr (University of Edinburgh & Common Prefix); Zeta Avarikioti (TU Wien & Common Prefix); Matteo Maffei (TU Wien & CDL-BOT); Andrea Pelosi (TU Wien, University of Pisa, University of Camerino, Traent & CDL-BOT); Orfeas Stefanos Thyfronitis Litos (Imperial College London & Common Prefix); Christos Stefo (TU Wien); David Tse (Stanford University); Alexei Zamyatin (BOB)
-NOURL
-
-<LECTURE>
-30
 Interactive Multi-Credential Authentication 
 Deepak Maram (Mysten Labs); Mahimna Kelkar (Cornell University); Ittay Eyal (Technion)
 NOURL
@@ -248,6 +242,12 @@ NOURL
 30
 SoK: Time to be Selfless?! Demystifying the Landscape of Selfish Mining Strategies and Models 
 Colin Finkbeiner, Mohamed E. Najd (University of Connecticut); Julia Guskind (Boston University); Ghada Almashaqbeh (University of Connecticut)
+NOURL
+
+<LECTURE>
+30
+Good Things Come To Those Who Wait: Dishonest-Majority Coin-Flipping Requires Delay Functions. 
+Joseph Bonneau (NYU & a16z crypto); Benedikt Bünz (NYU); Miranda Christ, Yuval Efron (Columbia University)
 NOURL
 
 
@@ -319,19 +319,19 @@ Lunch
 %-----------
 
 <SESSION>
-Impossibilities and ways around them
+Bitcoin developments
 TBD
 
 <LECTURE>
 30
-Invited: TBD
+Invited: Integrating Bitcoin with the rest of the Crypto Economy
 David Tse (Stanford University)
 NOURL
 
 <LECTURE>
 30
-Good Things Come To Those Who Wait: Dishonest-Majority Coin-Flipping Requires Delay Functions. 
-Joseph Bonneau (NYU & a16z crypto); Benedikt Bünz (NYU); Miranda Christ, Yuval Efron (Columbia University)
+WIP: BitVM2: Bridging Bitcoin to Second Layers 
+Robin Linus Woll (Stanford University & ZeroSync); Lukas Aumayr (University of Edinburgh & Common Prefix); Zeta Avarikioti (TU Wien & Common Prefix); Matteo Maffei (TU Wien & CDL-BOT); Andrea Pelosi (TU Wien, University of Pisa, University of Camerino, Traent & CDL-BOT); Orfeas Stefanos Thyfronitis Litos (Imperial College London & Common Prefix); Christos Stefo (TU Wien); David Tse (Stanford University); Alexei Zamyatin (BOB)
 NOURL
 
 
