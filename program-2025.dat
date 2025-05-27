@@ -182,7 +182,7 @@ Joachim Neu
 30
 Lightning talks
 Short 3 minute talks by the participants (no registration needed)
-https://www.youtube.com/watch?v=GoAO2MNU0Oo
+NOURL
 
 <BREAK>
  90
@@ -296,29 +296,6 @@ Break
 %------------
 
 <SESSION>
-Proof systems: applications
-TBD
-
-<LECTURE>
-30
-Tessel: An Optimizing Compiler for Efficient Zero-Knowledge Circuits 
-Junrui Liu (University of California, Santa Barbara); Jiaxin Song (University of Illinois Urbana-Champaign); Yanning Chen (University of Toronto); Hanzhi Liu, Hongbo Wen, Yanju Chen, Yu Feng (University of California, Santa Barbara)
-NOURL
-
-<LECTURE>
-30
-WIP: Efficient Vector Range Proofs and Their Application to PVSS 
-Dan Boneh, Trisha Datta (Stanford University); Rex Fernando (Aptos Labs); Kamilla Nazirkhanova (Stanford University); Alin Tomescu (Aptos Labs)
-NOURL
-
-
-<BREAK>
- 90
-Lunch
-
-%-----------
-
-<SESSION>
 Bitcoin developments
 TBD
 
@@ -336,10 +313,35 @@ NOURL
 
 
 <BREAK>
+ 90
+Lunch
+
+%-----------
+
+<SESSION>
+Proof systems: applications
+TBD
+
+<LECTURE>
+30
+Tessel: An Optimizing Compiler for Efficient Zero-Knowledge Circuits 
+Junrui Liu (University of California, Santa Barbara); Jiaxin Song (University of Illinois Urbana-Champaign); Yanning Chen (University of Toronto); Hanzhi Liu, Hongbo Wen, Yanju Chen, Yu Feng (University of California, Santa Barbara)
+NOURL
+
+<LECTURE>
+30
+WIP: Efficient Vector Range Proofs and Their Application to PVSS 
+Dan Boneh, Trisha Datta (Stanford University); Rex Fernando (Aptos Labs); Kamilla Nazirkhanova (Stanford University); Alin Tomescu (Aptos Labs)
+NOURL
+
+
+<BREAK>
  30
 Break
 
+
 %-----------
+
 
 <SESSION>
 Mechanism design
