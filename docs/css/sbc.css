@@ -100,8 +100,13 @@ div.masthead h1 {
 }
 
 #sponsors img {
-  height: 4rem;
+  height: 3rem;
   width: auto;
+  transition: transform .5s ease;
+}
+
+#sponsors img:hover {
+  transform: scale(1.2);
 }
 
 .features-icons {
