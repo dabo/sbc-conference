@@ -6,7 +6,8 @@ Monday, Aug. 4, 2025
 10
 Welcome remarks
 SBC Program Chairs
-NOURL
+NOPAPER
+NOVIDEO
 
 %------------
 
@@ -18,19 +19,22 @@ Aniket Kate
 30
 Blockchain Address Poisoning 
 Taro Tsuchiya, Jin-Dong Dong (Carnegie Mellon University); Kyle Soska (Independent); Nicolas Christin (Carnegie Mellon University)
-NOURL
+https://arxiv.org/html/2501.16681v1
+https://www.youtube.com/live/_2gnJjvodws?t=582
 
 <LECTURE>
 30
 A Place for Everyone vs Everyone in its Place: Measuring and Attacking the Ethereum Global Network 
 Chenyu Li (Institute of Information Engineering, Chinese Academy of Sciences; University of Chinese Academy of Sciences); Ren Zhang (Cryptape and Nervos); Xiaorui Gong (Institute of Information Engineering, Chinese Academy of Sciences; University of Chinese Academy of Sciences)
-NOURL
+https://eprint.iacr.org/2025/588
+https://www.youtube.com/live/_2gnJjvodws?t=2293
 
 <LECTURE>
 30
 Deanonymizing Ethereum Validators: The P2P Network Has a Privacy Issue 
 Lioba Heimbach, Yann Vonlanthen (ETH Zurich); Juan Villacis (University of Bern); Lucianna Kiffer (IMDEA Networks); Roger Wattenhofer (ETH Zurich)
-NOURL
+https://arxiv.org/abs/2409.04366
+https://www.youtube.com/live/_2gnJjvodws?t=3979
 
 <BREAK>
  30
@@ -44,13 +48,15 @@ Ari Juels
 30
 Invited: Financial Privacy in the Digital Age
 Hester Peirce (Commissioner at the SEC)
-NOURL
+NOPAPER
+https://www.youtube.com/live/_2gnJjvodws?t=7566
 
 <LECTURE>
 30
 Exploring User Perceptions of Security Auditing in the Web3 Ecosystem 
 Molly Zhuangtong huang, Rui Jiang (University of Macau); Tanusree Sharma (Pennsylvania State University); Kanye Ye Wang (University of Macau)
-NOURL
+https://eprint.iacr.org/2024/1501
+https://www.youtube.com/live/_2gnJjvodws?t=9824
 
 
 %------------
@@ -69,7 +75,8 @@ Dionysis Zindros
 30
 Accountable Liveness 
 Andrew Lewis-Pye (London School of Economics); Joachim Neu (a16z Crypto Research); Tim Roughgarden (Columbia University & a16z crypto); Luca Zanolini (Ethereum Foundation)
-NOURL
+NOPAPER
+NOVIDEO
 
 
 
@@ -77,7 +84,8 @@ NOURL
 30
 Mysticeti: Reaching the Latency Limits with Uncertified DAGs 
 Kushal Babel (Cornell Tech ; IC3); Andrey Chursin (Mysten Labs); George Danezis (Mysten Labs & University College London (UCL)); Anastasios Kichidi, Lefteris Kokoris-Kogias, Arun Koshy (Mysten Labs); Alberto Sonnino (Mysten Labs & University College London (UCL)); Mingwei Tian (Mysten Labs)
-NOURL
+NOPAPER
+NOVIDEO
 
 
 
@@ -85,7 +93,8 @@ NOURL
 30
 Permissionless Blockchains from Physical Resources 
 Mirza Ahad Baig, Christoph U. Günther, Krzysztof Pietrzak (Institute of Science and Technology Austria)
-NOURL
+NOPAPER
+NOVIDEO
 
 <BREAK>
  30
@@ -102,19 +111,22 @@ Dan Boneh
 30
 Dynamic zk-SNARKs 
 Weijie Wang (Yale University); Charalampos Papamanthou (Yale University and Lagrange Labs); Shravan Srinivasan (Lagrange Labs); Dimitrios Papadopoulos (Hong Kong University of Science & Technology)
-NOURL
+NOPAPER
+NOVIDEO
 
 <LECTURE>
 30
 Mercury: a multilinear Polynomial Commitment Scheme with constant proof size and linear field work 
 Liam Eagen (Alpen Labs); Ariel Gabizon (Aztec Labs)
-NOURL
+NOPAPER
+NOVIDEO
 
 <LECTURE>
 30
 GARUDA and PARI: Faster and Smaller SNARKs via Equifficient Polynomial Commitments 
 Michel Dellepere (Ava Labs); Pratyush Mishra, Alireza Shirzad (University of Pennsylvania)
-NOURL
+NOPAPER
+NOVIDEO
 
 <BREAK>
  00
@@ -141,13 +153,15 @@ Ciamac Moallemi
 30
 Voting-Bloc Entropy: A New Metric for DAO Decentralization 
 Andres Fabrega (Cornell University); Amy Zhao (IC3); Jay Yu (Stanford University); James Austgen (Cornell Tech); Sarah Allen (IC3, Flashbots); Kushal Babel (Cornell Tech, Monad Labs); Mahimna Kelkar (Cornell University); Ari Juels (Jacobs Institute, Cornell Tech)
-NOURL
+NOPAPER
+NOVIDEO
 
 <LECTURE>
 30
 Measuring Blockchain Decentralization 
 Christina Ovezik (University of Edinburgh); Dimitris Karakostas (University of Edinburgh & Common Prefix); Mary Milad (University of Edinburgh); Aggelos Kiayias (University of Edinburgh and IOG); Daniel W Woods (University of Edinburgh)
-NOURL
+NOPAPER
+NOVIDEO
 
 <BREAK>
  30
@@ -161,14 +175,16 @@ Davide Crapis
 30
 Data Availability Sampling with Efficient Repair: Definitions and New Constructions 
 Dan Boneh (Stanford University); Joachim Neu (a16z Crypto Research); Valeria Nikolaenko (A16Z Crypto Research); Aditi Partap (Stanford University)
-NOURL
+NOPAPER
+NOVIDEO
 
 
 <LECTURE>
 30
 The Early Days of the Ethereum Blob Fee Market and Lessons Learnt 
 Lioba Heimbach (ETH Zurich); Jason Milionis (Columbia University)
-NOURL
+NOPAPER
+NOVIDEO
 
 
 
@@ -182,7 +198,8 @@ Joachim Neu
 30
 Lightning talks
 Short 3 minute talks by the participants (no registration needed)
-NOURL
+NOPAPER
+NOVIDEO
 
 <BREAK>
  90
@@ -198,19 +215,22 @@ Alin Tomescu
 30
 Coinbase's cb-mpc Open-Source Library 
 Arash Afshar, Yi-Hsiu Chen, Yehuda Lindell (Coinbase); Gil Segev (Coinbase and Hebrew University); Valery Osheter, Samuel Ranellucci (Coinbase)
-NOURL
+NOPAPER
+NOVIDEO
 
 <LECTURE>
 30
 Interactive Multi-Credential Authentication 
 Deepak Maram (Mysten Labs); Mahimna Kelkar (Cornell University); Ittay Eyal (Technion)
-NOURL
+NOPAPER
+NOVIDEO
 
 <LECTURE>
 30
 Efficiently-Thresholdizable Batched Identity Based Encryption, and its Applications 
 Amit Agarwal (University of Illinois Urbana-Champaign Champaign); Benny Pinkas (Bar-Ilan University); Rex Fernando (Aptos Labs)
-NOURL
+NOPAPER
+NOVIDEO
 
 
 
@@ -230,25 +250,29 @@ Chrysa Stathakopoulou
 30
 Invited: The Evolving Art of Agreement: Post-Blockchain Theory and Practice of Consensus Protocols
 Aggelos Kiayias (University of Edinburgh and IOG)
-NOURL
+NOPAPER
+NOVIDEO
 
 <LECTURE>
 30
 No Fish Is Too Big for Flash Boys! Frontrunning on DAG-based Blockchains 
 Jianting Zhang (Purdue University); Aniket Kate (Purdue University / Supra Research)
-NOURL
+NOPAPER
+NOVIDEO
 
 <LECTURE>
 30
 SoK: Time to be Selfless?! Demystifying the Landscape of Selfish Mining Strategies and Models 
 Colin Finkbeiner, Mohamed E. Najd (University of Connecticut); Julia Guskind (Boston University); Ghada Almashaqbeh (University of Connecticut)
-NOURL
+NOPAPER
+NOVIDEO
 
 <LECTURE>
 30
 Good Things Come To Those Who Wait: Dishonest-Majority Coin-Flipping Requires Delay Functions. 
 Joseph Bonneau (NYU & a16z crypto); Benedikt Bünz (NYU); Miranda Christ, Yuval Efron (Columbia University)
-NOURL
+NOPAPER
+NOVIDEO
 
 
 %--------------
@@ -274,19 +298,22 @@ Alin Tomescu
 30
 Jigsaw: Doubly Private Smart Contracts 
 Sanjam Garg (UC Berkeley); Aarushi Goel (Purdue University); Dimitris Kolonelos (UC Berkeley); Rohit Sinha (Swirlds Labs)
-NOURL
+NOPAPER
+NOVIDEO
 
 <LECTURE>
 30
 Kite: How to Delegate Voting Power Privately 
 Kamilla Nazirkhanova, Vrushank Gunjur, Pilli Cruz-De Jesus, Dan Boneh (Stanford University)
-NOURL
+NOPAPER
+NOVIDEO
 
 <LECTURE>
 30
 Liquefaction: Privately Liquefying Blockchain Assets 
 James Austgen (Cornell Tech); Andrés Fábrega, Mahimna Kelkar (Cornell University); Dani Vilardell (Cornell Tech); Sarah Allen (IC3, Flashbots); Kushal Babel (Cornell Tech, Monad Labs); Jay Yu (Stanford University); Ari Juels (Jacobs Institute, Cornell Tech)
-NOURL
+NOPAPER
+NOVIDEO
 
 
 <BREAK>
@@ -303,13 +330,15 @@ Dahlia Malkhi
 30
 BitVM2: Bridging Bitcoin to Second Layers 
 Robin Linus Woll (Stanford University & ZeroSync); Lukas Aumayr (University of Edinburgh & Common Prefix); Zeta Avarikioti (TU Wien & Common Prefix); Matteo Maffei (TU Wien & CDL-BOT); Andrea Pelosi (TU Wien, University of Pisa, University of Camerino, Traent & CDL-BOT); Orfeas Stefanos Thyfronitis Litos (Imperial College London & Common Prefix); Christos Stefo (TU Wien); David Tse (Stanford University); Alexei Zamyatin (BOB)
-NOURL
+NOPAPER
+NOVIDEO
 
 <LECTURE>
 30
 Invited: Trustless Vaults: Integrating Bitcoin with the Smart Contracts Economy 
 David Tse (Stanford University)
-NOURL
+NOPAPER
+NOVIDEO
 
 <BREAK>
  90
@@ -325,13 +354,15 @@ Arnab Roy
 30
 Tessel: An Optimizing Compiler for Efficient Zero-Knowledge Circuits 
 Junrui Liu (University of California, Santa Barbara); Jiaxin Song (University of Illinois Urbana-Champaign); Yanning Chen (University of Toronto); Hanzhi Liu, Hongbo Wen, Yanju Chen, Yu Feng (University of California, Santa Barbara)
-NOURL
+NOPAPER
+NOVIDEO
 
 <LECTURE>
 30
 Efficient Vector Range Proofs and Their Application to PVSS 
 Dan Boneh, Trisha Datta (Stanford University); Rex Fernando (Aptos Labs); Kamilla Nazirkhanova (Stanford University); Alin Tomescu (Aptos Labs)
-NOURL
+NOPAPER
+NOVIDEO
 
 
 <BREAK>
@@ -350,26 +381,30 @@ Joe Bonneau
 30
 Pseudo-Equilibria, or: How to Stop Worrying About Crypto and Just Analyze the Game 
 Alexandros Psomas, Athina Terzoglou (Purdue University); Yu Wei, Vassilis Zikas (Georgia Institute of Technology)
-NOURL
+NOPAPER
+NOVIDEO
 
 
 <LECTURE>
 30
 Quantifying the Value of Revert Protection 
 Brian Z. Zhu (Columbia University); Xin Wan (Uniswap Labs); Ciamac C. Moallemi (Columbia University / Paradigm / Uniswap Labs); Dan Robinson (Paradigm); Brad Bachu (Uniswap Labs)
-NOURL
+NOPAPER
+NOVIDEO
 
 <LECTURE>
 30
 Incentive-Compatible Recovery from Manipulated Signals, with Applications to Decentralized Physical Infrastructure 
 Jason Milionis (Columbia University); Jens Ernstberger (Technical University of Munich); Joseph Bonneau (NYU & a16z crypto); Scott Duke Kominers (Harvard University & a16z crypto); Tim Roughgarden (Columbia University & a16z crypto)
-NOURL
+NOPAPER
+NOVIDEO
 
 <LECTURE>
 30
 Latency Advantages in Common-Value Auctions 
 Ciamac C. Moallemi (Columbia University / Paradigm / Uniswap Labs); Mallesh M. Pai (Consensys / Paradigm); Dan Robinson (Paradigm)
-NOURL
+NOPAPER
+NOVIDEO
 
 
 %-----------
@@ -383,4 +418,3 @@ Conference ends ... see you next year
 Closing party hosted by Chainlink. Sign up <a href="https://lu.ma/CL_SBC25" target="_blank">here</a>. 
 
 <END>
-

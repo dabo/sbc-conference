@@ -44,7 +44,7 @@ while(<DATA>) {
 
     #--------------------------
     if (/<DAY>/i) {
-        $day = <DATA>;
+        chomp($day = <DATA>);
         print HTML <<ENDHTML;
 <tr><td colspan="2" class="empty"> </td></tr>
 <tr>
@@ -60,8 +60,8 @@ ENDHTML
     #----------------------------
     if (/<SESSION>/i) {
         $sessionnum ++;
-        $title    = <DATA>;
-        $chair    = <DATA>;
+        chomp( $title = <DATA>);
+        chomp( $chair = <DATA>);
 
         print HTML <<ENDHTML;
 <tr>
@@ -78,11 +78,12 @@ ENDHTML
 
     #----------------------------
     if (/<LECTURE>/i) {
-        $duration = <DATA>;
-        $title    = <DATA>;
-        $authors  = <DATA>;
+        chomp($duration = <DATA>);
+        chomp($title    = <DATA>);
+        chomp($authors  = <DATA>);
         $speaker  = "";
-        $url      = <DATA>;   $url =~ s/\s+$//;
+        chomp($paper    = <DATA>);   $url =~ s/\s+$//;
+        chomp($video    = <DATA>);   $url =~ s/\s+$//;
 
 	$timestr = &GetTimeStr($time, $duration);
         $time += $duration;
@@ -95,10 +96,14 @@ ENDHTML
       $title  
 ENDHTML
 
-	if (!($url =~ /NOURL/i)) { 
-	    print HTML "      <span class=\"slides\">[<a href=\"$url\" target=\"_blank\">video</a>]</span> &nbsp;\n";
+	if (!($video =~ /NOVIDEO/i)) { 
+	    print HTML "      <span class=\"slides\">[<a href=\"$video\" target=\"_blank\">video</a>]</span> &nbsp;\n";
 	}
 	    
+	if (!($paper =~ /NOPAPER/i)) { 
+	    print HTML "      <span class=\"slides\">[<a href=\"$paper\" target=\"_blank\">paper</a>]</span> &nbsp;\n";
+	}
+
         print HTML <<ENDHTML;
     </div>
     <div class="authors"> 
@@ -123,8 +128,8 @@ ENDHTML
 
     #----------------------------
     if (/<BREAK>/i) {
-        $duration = <DATA>;
-        $title    = <DATA>;
+        chomp($duration = <DATA>);
+        chomp($title    = <DATA>);
 
 	$timestr = &GetTimeStr($time, $duration);
         $time += $duration;
