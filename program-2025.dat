@@ -153,14 +153,14 @@ Ciamac Moallemi
 Voting-Bloc Entropy: A New Metric for DAO Decentralization 
 Andres Fabrega (Cornell University); Amy Zhao (IC3); Jay Yu (Stanford University); James Austgen (Cornell Tech); Sarah Allen (IC3, Flashbots); Kushal Babel (Cornell Tech, Monad Labs); Mahimna Kelkar (Cornell University); Ari Juels (Jacobs Institute, Cornell Tech)
 https://www.usenix.org/conference/usenixsecurity25/presentation/fabrega-entropy
-NOVIDEO
+https://www.youtube.com/live/bkr3K2DiVhg?t=27
 
 <LECTURE>
 30
 Measuring Blockchain Decentralization 
 Christina Ovezik (University of Edinburgh); Dimitris Karakostas (University of Edinburgh & Common Prefix); Mary Milad (University of Edinburgh); Aggelos Kiayias (University of Edinburgh and IOG); Daniel W Woods (University of Edinburgh)
 https://arxiv.org/abs/2501.18279
-NOVIDEO
+https://www.youtube.com/live/bkr3K2DiVhg?t=1872
 
 <BREAK>
  30
@@ -175,7 +175,7 @@ Davide Crapis
 Data Availability Sampling with Efficient Repair: Definitions and New Constructions 
 Dan Boneh (Stanford University); Joachim Neu (a16z Crypto Research); Valeria Nikolaenko (A16Z Crypto Research); Aditi Partap (Stanford University)
 https://eprint.iacr.org/2025/1414
-NOVIDEO
+https://www.youtube.com/live/bkr3K2DiVhg?t=3584
 
 
 <LECTURE>
@@ -183,7 +183,7 @@ NOVIDEO
 The Early Days of the Ethereum Blob Fee Market and Lessons Learnt 
 Lioba Heimbach (ETH Zurich); Jason Milionis (Columbia University)
 https://arxiv.org/abs/2502.12966
-NOVIDEO
+https://www.youtube.com/live/bkr3K2DiVhg?t=5159
 
 
 
@@ -198,7 +198,7 @@ Joachim Neu
 Lightning talks
 Short 3 minute talks by the participants (no registration needed)
 NOPAPER
-NOVIDEO
+https://www.youtube.com/live/bkr3K2DiVhg?t=7017
 
 <BREAK>
  90
@@ -215,21 +215,21 @@ Alin Tomescu
 Coinbase's cb-mpc Open-Source Library 
 Arash Afshar, Yi-Hsiu Chen, Yehuda Lindell (Coinbase); Gil Segev (Coinbase and Hebrew University); Valery Osheter, Samuel Ranellucci (Coinbase)
 https://github.com/coinbase/cb-mpc
-NOVIDEO
+https://www.youtube.com/live/P_X1lORD6gQ?feature=shared&t=28
 
 <LECTURE>
 30
 Interactive Multi-Credential Authentication 
 Deepak Maram (Mysten Labs); Mahimna Kelkar (Cornell University); Ittay Eyal (Technion)
 https://eprint.iacr.org/2022/1682.pdf
-NOVIDEO
+https://www.youtube.com/live/P_X1lORD6gQ?t=1751
 
 <LECTURE>
 30
 Efficiently-Thresholdizable Batched Identity Based Encryption, and its Applications 
 Amit Agarwal (University of Illinois Urbana-Champaign Champaign); Benny Pinkas (Bar-Ilan University); Rex Fernando (Aptos Labs)
 https://eprint.iacr.org/2024/1575
-NOVIDEO
+https://www.youtube.com/live/P_X1lORD6gQ?t=3565
 
 
 
@@ -250,28 +250,28 @@ Chrysa Stathakopoulou
 Invited: The Evolving Art of Agreement: Post-Blockchain Theory and Practice of Consensus Protocols
 Aggelos Kiayias (University of Edinburgh and IOG)
 NOPAPER
-NOVIDEO
+https://www.youtube.com/live/P_X1lORD6gQ?t=5396
 
 <LECTURE>
 30
 No Fish Is Too Big for Flash Boys! Frontrunning on DAG-based Blockchains 
 Jianting Zhang (Purdue University); Aniket Kate (Purdue University / Supra Research)
 https://eprint.iacr.org/2024/1496
-NOVIDEO
+https://www.youtube.com/live/P_X1lORD6gQ?t=7267
 
 <LECTURE>
 30
 SoK: Time to be Selfless?! Demystifying the Landscape of Selfish Mining Strategies and Models 
 Colin Finkbeiner, Mohamed E. Najd (University of Connecticut); Julia Guskind (Boston University); Ghada Almashaqbeh (University of Connecticut)
 https://eprint.iacr.org/2025/43
-NOVIDEO
+https://www.youtube.com/live/P_X1lORD6gQ?t=8817
 
 <LECTURE>
 30
 Good Things Come To Those Who Wait: Dishonest-Majority Coin-Flipping Requires Delay Functions. 
 Joseph Bonneau (NYU & a16z crypto); Benedikt Bünz (NYU); Miranda Christ, Yuval Efron (Columbia University)
 https://eprint.iacr.org/2024/1711
-NOVIDEO
+https://www.youtube.com/live/P_X1lORD6gQ?t=10222
 
 
 %--------------
