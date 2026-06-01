@@ -1,0 +1,719 @@
+<html>
+
+<head>
+  <script>
+    window.onload = function() {
+      var height = document.body.scrollHeight;
+      window.parent.postMessage({'iframeHeight': height}, '*');
+    };
+  </script>
+</head>
+
+<body>
+
+<!---  generated file; do not change manually -->
+
+<style>
+table.program {
+	border-collapse:collapse;
+	width:760px;
+}
+
+table.program td {
+	border: 1px solid black; 
+	vertical-align: top;
+}
+
+table.program td.empty {
+	border: none;
+	padding-top: 2em;
+}
+
+.day {
+	width: 100%;
+	background-color: #000080;
+	color: #e9fbfc;
+	font-weight: 300;
+	font-size: 120%;
+        padding: .5em;
+}
+
+.time {
+	font-size: 90%;
+	font-style:italic;
+        padding-top: .5em;
+}
+
+.lecture {
+        padding: .5em 0em .5em .5em;
+}
+
+.lectitle {
+	font-weight: bold;
+	color: DarkBlue;
+	padding-bottom: .1em;
+}
+
+.lecturer {
+	font-style: normal;
+}
+
+.authors {
+        font-style: italic;
+}
+
+.break {
+	background-color: #F8F8F8;
+}
+
+.session {
+	font-weight: bold;
+	padding-top: .8em;
+	padding-left: .5em;
+}
+
+.slides {
+	margin-left: .5em;
+}
+
+.chair {
+	float: right;
+	font-weight: normal;
+	padding-right: 2em;
+}
+</style>
+
+
+<table class="program">
+<tbody>
+
+<tr><td colspan="2" class="empty"> </td></tr>
+<tr>
+  <td colspan="2" class="day"> Monday, July 27, 2027 </td>
+</tr>
+
+<tr>
+  <td class="time"> 9:00am </td>
+  <td class="lecture">
+    <div class="lectitle">
+      Welcome remarks  
+    </div>
+    <div class="authors"> 
+      SBC Program Chairs    </div>
+  </td>
+</tr>
+
+<tr>
+  <td colspan="2" class="session"> 
+      Session 1: &nbsp; Censorship Resistance 
+      <span class="chair">session chair: TBD</span>
+  </td>
+</tr>
+
+<tr>
+  <td class="time"> 9:10am </td>
+  <td class="lecture">
+    <div class="lectitle">
+      #181 Escaping the Monopolist: An Economic Model of Censorship Resistance in Multi-Proposer Protocols   
+    </div>
+    <div class="authors"> 
+      <u><b>Aadityan Ganesh</b></u> (Princeton University), <b>Pranav Garimidi</b> (a16z Crypto), <b>Bruno Mazorra</b> (Flashbots)    </div>
+  </td>
+</tr>
+
+<tr>
+  <td class="time"> 9:35am </td>
+  <td class="lecture">
+    <div class="lectitle">
+      #42 The Latency Cost Of Censorship Resistance   
+      <span class="slides">[<a href="https://eprint.iacr.org/2025/2136" target="_blank">paper</a>]</span> &nbsp;
+    </div>
+    <div class="authors"> 
+      <b>Ittai Abraham</b> (a16z Crypto), <b>Yuval Efron</b> (Ritual), <b><u>Ling Ren</u></b> (UIUC)    </div>
+  </td>
+</tr>
+
+<tr>
+  <td class="time"> 10:00am </td>
+  <td class="lecture">
+    <div class="lectitle">
+      #56 Prefix Consensus For Censorship Resistant BFT   
+      <span class="slides">[<a href="https://arxiv.org/abs/2602.02892" target="_blank">paper</a>]</span> &nbsp;
+    </div>
+    <div class="authors"> 
+      <b><u>Zhuolun Xiang</u></b> (Aptos Labs), <b>Andrei Tonkikh</b> (Aptos Labs), <b>Alexander Spiegelman</b> (Aptos Labs)    </div>
+  </td>
+</tr>
+
+<tr class="break">
+  <td class="time"> 10:25am </td>
+  <td class="lecture"> <div class="lectitle"> Break </div> </td>
+</tr>
+
+<tr>
+  <td colspan="2" class="session"> 
+      Session 2: &nbsp; The Quantum Threat 
+      <span class="chair">session chair: Dan Boneh</span>
+  </td>
+</tr>
+
+<tr>
+  <td class="time"> 10:55am </td>
+  <td class="lecture">
+    <div class="lectitle">
+      Invited: Elliptic Curve Cryptocurrencies and Quantum Vulnerabilities  
+      <span class="slides">[<a href="https://eprint.iacr.org/2026/625" target="_blank">paper</a>]</span> &nbsp;
+    </div>
+    <div class="authors"> 
+      <b>Ryan Babbush</b>, Google    </div>
+  </td>
+</tr>
+
+<tr>
+  <td class="time"> 11:20am </td>
+  <td class="lecture">
+    <div class="lectitle">
+      Transitioning a hardware wallet to post-quantum security  
+    </div>
+    <div class="authors"> 
+      <b>Charles Guillemet</b>, CTO of Ledger    </div>
+  </td>
+</tr>
+
+<tr>
+  <td class="time"> 11:40am </td>
+  <td class="lecture">
+    <div class="lectitle">
+      Transitioning a custodian to post-quantum security  
+    </div>
+    <div class="authors"> 
+      TBD    </div>
+  </td>
+</tr>
+
+<tr class="break">
+  <td class="time"> 12:00pm </td>
+  <td class="lecture"> <div class="lectitle"> Lunch </div> </td>
+</tr>
+
+<tr>
+  <td colspan="2" class="session"> 
+      Session 3: &nbsp; Consensus I 
+      <span class="chair">session chair: TBD</span>
+  </td>
+</tr>
+
+<tr>
+  <td class="time"> 1:30pm </td>
+  <td class="lecture">
+    <div class="lectitle">
+      #254 Forget-IT: Optimal Good-Case Latency For Information-Theoretic BFT   
+      <span class="slides">[<a href="https://eprint.iacr.org/2026/355" target="_blank">paper</a>]</span> &nbsp;
+    </div>
+    <div class="authors"> 
+      <b>Ittai Abraham</b> (a16z Crypto Research), <b>Sourav Das</b> (Category Labs), <b>Yuval Efron</b> (Ritual), <b>Jovan Komatovic</b> (Category Labs)    </div>
+  </td>
+</tr>
+
+<tr>
+  <td class="time"> 1:55pm </td>
+  <td class="lecture">
+    <div class="lectitle">
+      #197 Timing Games in Responsive Consensus Protocols   
+      <span class="slides">[<a href="https://arxiv.org/abs/2510.25144" target="_blank">paper</a>]</span> &nbsp;
+    </div>
+    <div class="authors"> 
+      <b>Kaya Alpturer</b> (Princeton University), <b>Kushal Babel</b> (Category Labs), <b>Aditya Saraf</b> (Cornell University)    </div>
+  </td>
+</tr>
+
+<tr>
+  <td class="time"> 2:20pm </td>
+  <td class="lecture">
+    <div class="lectitle">
+      #215 MonadBFT: Fast, Responsive, Fork-Resistant Streamlined Consensus   
+      <span class="slides">[<a href="https://arxiv.org/abs/2502.20692" target="_blank">paper</a>]</span> &nbsp;
+    </div>
+    <div class="authors"> 
+      <b><u>Mohammad Jalalzai</u></b> (Category Labs), Kushal Babel</b> (Category Labs), <b>Jovan Komatovic</b> (Category Labs), <b>Tobias Klenze</b> (Category Labs), Sourav Das</b> (Category Labs), <b>Fatima Elsheimy</b> (Yale University), <b>Mike Setrin</b> (Category Labs), <b>John Bergschneider</b> (Category Labs), <b>Babak Gilkalaye</b> (Category Labs)    </div>
+  </td>
+</tr>
+
+<tr>
+  <td class="time"> 2:45pm </td>
+  <td class="lecture">
+    <div class="lectitle">
+      #18 Hydrangea: Optimistic Two-Round Partial Synchrony with Improved Fault Resilience   
+      <span class="slides">[<a href="https://eprint.iacr.org/2025/1112" target="_blank">paper</a>]</span> &nbsp;
+    </div>
+    <div class="authors"> 
+      <b>Nibesh Shrestha</b> (Supra Research), <b>Aniket Kate</b> (Supra Research / Purdue University), <b>Kartik Nayak</b> (Duke University)    </div>
+  </td>
+</tr>
+
+<tr class="break">
+  <td class="time"> 3:10pm </td>
+  <td class="lecture"> <div class="lectitle"> Break </div> </td>
+</tr>
+
+<tr>
+  <td colspan="2" class="session"> 
+      Session 4: &nbsp; Batch Threshold Decryption 
+      <span class="chair">session chair: TBD</span>
+  </td>
+</tr>
+
+<tr>
+  <td class="time"> 3:45pm </td>
+  <td class="lecture">
+    <div class="lectitle">
+      #76 Efficient Batch Threshold Encryption Using Partial Fraction Techniques   
+      <span class="slides">[<a href="https://eprint.iacr.org/2026/674" target="_blank">paper</a>]</span> &nbsp;
+    </div>
+    <div class="authors"> 
+      <b>Dan Boneh</b> (Stanford University), <b>Rohit Nema</b> (Stanford University), <b>Arnab Roy</b> (Mysten Labs), <b><u>Ertem Nusret Tas</u></b> (a16z Crypto Research)    </div>
+  </td>
+</tr>
+
+<tr>
+  <td class="time"> 4:10pm </td>
+  <td class="lecture">
+    <div class="lectitle">
+      #127 TrX: Encrypted Mempools in High Performance BFT Protocols   
+      <span class="slides">[<a href="https://eprint.iacr.org/2025/2032" target="_blank">paper</a>]</span> &nbsp;
+    </div>
+    <div class="authors"> 
+      <b>Rex Fernando</b> (Aptos Labs), <b>Guru Vamsi Policharla</b> (Commonware), <b>Andrei Tonkikh</b> (Aptos Labs), <b>Zhuolun Xiang</b> (Aptos Labs)    </div>
+  </td>
+</tr>
+
+<tr>
+  <td class="time"> 4:35pm </td>
+  <td class="lecture">
+    <div class="lectitle">
+      #193 Weighted Batched Threshold Encryption with Applications to Mempool Resilience   
+      <span class="slides">[<a href="https://eprint.iacr.org/2025/2115" target="_blank">paper</a>]</span> &nbsp;
+    </div>
+    <div class="authors"> 
+      <b>Amit Agarwal</b> (Category Labs), <b>Kushal Babel</b> (Category Labs), <b>Sourav Das</b> (Category Labs), <b>Babak Gilkalaye</b> (Category Labs), <b>Arup Mondal</b> (Ashoka University), <b>Benny Pinkas</b> (Bar Ilan University), <b>Peter Rindal</b> (Category Labs), <b>Aayush Yadav</b> (George Mason University)    </div>
+  </td>
+</tr>
+
+<tr class="break">
+  <td class="time"> 5:00pm </td>
+  <td class="lecture"> <div class="lectitle"> End of day one </div> </td>
+</tr>
+
+<tr class="break">
+  <td class="time"> 5:00pm </td>
+  <td class="lecture"> <div class="lectitle"> Reception </div> </td>
+</tr>
+
+<tr><td colspan="2" class="empty"> </td></tr>
+<tr>
+  <td colspan="2" class="day"> Tuesday, July 28, 2026 </td>
+</tr>
+
+<tr>
+  <td colspan="2" class="session"> 
+      Session 5: &nbsp; Bitcoin Bridges and Proof of Work 
+      <span class="chair">session chair: TBD</span>
+  </td>
+</tr>
+
+<tr>
+  <td class="time"> 9:00am </td>
+  <td class="lecture">
+    <div class="lectitle">
+      #219 WIP: Efficient Bitcoin Bridges via Garbled Circuits   
+    </div>
+    <div class="authors"> 
+      <b>Robin Linus Woll</b> (Stanford University and ZeroSync), <b>Ioannis Alexopoulos</b> (TU Wien), <b>Lukas Aumayr</b> (University of Edinburgh & Common Prefix), <b>Zeta Avarikioti</b> (TU Wien and Common Prefix), <b>Matteo Maffei</b> (TU Wien)     </div>
+  </td>
+</tr>
+
+<tr>
+  <td class="time"> 9:25am </td>
+  <td class="lecture">
+    <div class="lectitle">
+      #20 BABE: Verifying Proofs on Bitcoin Made 1000x Cheaper   
+      <span class="slides">[<a href="https://eprint.iacr.org/2026/065" target="_blank">paper</a>]</span> &nbsp;
+    </div>
+    <div class="authors"> 
+      <b>Sanjam Garg</b> (University of California, Berkeley), <b>Dimitris Kolonelos</b> (UC Berkeley), <b>Mikhail Sergeevitch</b> (Babylon Labs), <b><u>Srivatsan Sridhar</u></b> (Byzantine Research), <b>David Tse</b> (Byzantine Research)    </div>
+  </td>
+</tr>
+
+<tr>
+  <td class="time"> 9:50am </td>
+  <td class="lecture">
+    <div class="lectitle">
+      #159 Ark: Offchain Transaction Batching in Bitcoin   
+      <span class="slides">[<a href="https://arxiv.org/abs/2605.20952" target="_blank">paper</a>]</span> &nbsp;
+    </div>
+    <div class="authors"> 
+      <b>Pim Keer</b> (TU Wien), <b>Zeta Avarikioti</b> (TU Wien and Common Prefix), <b>Matteo Maffei</b> (TU Wien), <b>Marco Argentieri</b> (Ark Labs), <b>Andrew Camilleri</b> (Ark Labs)    </div>
+  </td>
+</tr>
+
+<tr class="break">
+  <td class="time"> 10:15am </td>
+  <td class="lecture"> <div class="lectitle"> Break </div> </td>
+</tr>
+
+<tr>
+  <td colspan="2" class="session"> 
+      Session 6: &nbsp; New Consensus Paradigms 
+      <span class="chair">session chair: TBD</span>
+  </td>
+</tr>
+
+<tr>
+  <td class="time"> 10:45am </td>
+  <td class="lecture">
+    <div class="lectitle">
+      #195 Space Fabric: A Satellite-Enhanced Trusted Execution Architecture   
+      <span class="slides">[<a href="https://arxiv.org/abs/2603.23745" target="_blank">paper</a>]</span> &nbsp;
+    </div>
+    <div class="authors"> 
+      <b><u>Filip Rezabek</u></b> (SpaceComputer and Technical University of Munich), <b>Dahlia Malkhi</b> (UCSB and SpaceComputer), <b>Amir Yahalom</b> (SpaceComputer)    </div>
+  </td>
+</tr>
+
+<tr>
+  <td class="time"> 11:10am </td>
+  <td class="lecture">
+    <div class="lectitle">
+      #144 The Economics of Proof-of-Useful-Work   
+    </div>
+    <div class="authors"> 
+      <b><u>Rafael Pass</u></b> (Cornell University, Technion, Impossible Labs)    </div>
+  </td>
+</tr>
+
+<tr>
+  <td colspan="2" class="session"> 
+      Session 7: &nbsp; Lightning talks 
+      <span class="chair">session chair: <b>Joachim Neu</b></span>
+  </td>
+</tr>
+
+<tr>
+  <td class="time"> 11:35am </td>
+  <td class="lecture">
+    <div class="lectitle">
+      Lightning talks  
+    </div>
+    <div class="authors"> 
+      Short 3 minute talks by the participants (no registration needed)    </div>
+  </td>
+</tr>
+
+<tr class="break">
+  <td class="time"> 12:10pm </td>
+  <td class="lecture"> <div class="lectitle"> Lunch </div> </td>
+</tr>
+
+<tr>
+  <td colspan="2" class="session"> 
+      Session 8: &nbsp; Attacks and more 
+      <span class="chair">session chair: TBD</span>
+  </td>
+</tr>
+
+<tr>
+  <td class="time"> 1:30pm </td>
+  <td class="lecture">
+    <div class="lectitle">
+      #202 Blockspace Under Pressure: An Analysis of Spam MEV on High-Throughput Blockchains   
+      <span class="slides">[<a href="https://arxiv.org/abs/2604.00234" target="_blank">paper</a>]</span> &nbsp;
+    </div>
+    <div class="authors"> 
+      <b>Wenhao Wang</b> (Yale University, IC3), <b>Aditya Saraf</b> (Cornell University), <b>Lioba Heimbach</b> (Category Labs), <b>Kushal Babel</b> (Category Labs), <b>Fan Zhang</b> (Yale University, IC3)    </div>
+  </td>
+</tr>
+
+<tr>
+  <td class="time"> 1:55pm </td>
+  <td class="lecture">
+    <div class="lectitle">
+      #31 TxRay: Agentic Postmortem of Live Blockchain Attacks   
+      <span class="slides">[<a href="https://arxiv.org/abs/2602.01317" target="_blank">paper</a>]</span> &nbsp;
+    </div>
+    <div class="authors"> 
+      <b><u>Ziyue Wang</u></b> (Decentralized Intelligence AG), <b>Jiangshan Yu</b> (The University of Sydney), <b>Kaihua Qin</b> (University of Warwick) <kaihua@qin.ac>, Dawn Song</b> (UC Berkeley), <b>Arthur Gervais</b> (University College London), <b>Liyi Zhou</b> (University of Sydney)    </div>
+  </td>
+</tr>
+
+<tr>
+  <td class="time"> 2:20pm </td>
+  <td class="lecture">
+    <div class="lectitle">
+      #168 Sunfish: Reading Ledgers with Sparse Clients   
+      <span class="slides">[<a href="https://eprint.iacr.org/2024/1680" target="_blank">paper</a>]</span> &nbsp;
+    </div>
+    <div class="authors"> 
+      <b><u>Giulia Scaffino</u></b> (Technical University of Vienna & Common Prefix), <b>Philipp Slowak</b> (Technical University of Vienna), <b>Karl Wüst</b> (Mysten Labs), <b>Deepak Maram</b> (Mysten Labs), <b>Alberto Sonnino</b> (Mysten Labs & University College London</b> (UCL), <b>Lefteris Kokoris-Kogias</b> (MystenLabs)    </div>
+  </td>
+</tr>
+
+<tr class="break">
+  <td class="time"> 2:45pm </td>
+  <td class="lecture"> <div class="lectitle"> Break </div> </td>
+</tr>
+
+<tr>
+  <td colspan="2" class="session"> 
+      Session 9: &nbsp; DeFi 
+      <span class="chair">session chair: TBD</span>
+  </td>
+</tr>
+
+<tr>
+  <td class="time"> 3:15pm </td>
+  <td class="lecture">
+    <div class="lectitle">
+      #104 Quantifying Sub-Optimality in Routing for Automated Market   
+    </div>
+    <div class="authors"> 
+      <b><u>Weiye Xi</u></b> (Columbia University), <b>Ciamac Moallemi</b> (Columbia University)    </div>
+  </td>
+</tr>
+
+<tr>
+  <td class="time"> 3:40pm </td>
+  <td class="lecture">
+    <div class="lectitle">
+      #228 Designing On-Chain Options: Amortizing Perpetual Options   
+      <span class="slides">[<a href="https://arxiv.org/pdf/2605.19146v1" target="_blank">paper</a>]</span> &nbsp;
+    </div>
+    <div class="authors"> 
+      <b><u>Zachary Feinstein</u></b> (Stevens Institute of Technology), <b>Maxim Bichuch</b> (University at Buffalo)    </div>
+  </td>
+</tr>
+
+<tr>
+  <td class="time"> 4:05pm </td>
+  <td class="lecture">
+    <div class="lectitle">
+      #214 Risk-Based Auto-Deleveraging   
+      <span class="slides">[<a href="https://arxiv.org/abs/2603.15963" target="_blank">paper</a>]</span> &nbsp;
+    </div>
+    <div class="authors"> 
+      <b>Steven Campbell</b> (Columbia University), <b>Natascha Hey</b> (Columbia University), <b><u>Ciamac Moallemi</u></b> (Columbia University / Paradigm / Uniswap Labs), <b>Marcel Nutz</b> (Columbia University)     </div>
+  </td>
+</tr>
+
+<tr>
+  <td class="time"> 4:30pm </td>
+  <td class="lecture">
+    <div class="lectitle">
+      #61 Perils of Parallelism: Transaction Fee Mechanisms under Execution Uncertainty   
+      <span class="slides">[<a href="https://arxiv.org/abs/2604.04193" target="_blank">paper</a>]</span> &nbsp;
+    </div>
+    <div class="authors"> 
+      <b><u>Sarisht Wadhwa</u></b> (Duke University), <b>Aviv Yaish</b> (Yale University, IC3, Complexity Science Hub Vienna), <b>Fan Zhang</b> (Yale University, IC3), <b>Kartik Nayak</b> (Duke University)    </div>
+  </td>
+</tr>
+
+<tr class="break">
+  <td class="time"> 4:55pm </td>
+  <td class="lecture"> <div class="lectitle"> End of day two </div> </td>
+</tr>
+
+<tr><td colspan="2" class="empty"> </td></tr>
+<tr>
+  <td colspan="2" class="day"> Wednesday, July 29, 2026 </td>
+</tr>
+
+<tr>
+  <td colspan="2" class="session"> 
+      Session 10: &nbsp; Infrastructure 
+      <span class="chair">session chair: TBD</span>
+  </td>
+</tr>
+
+<tr>
+  <td class="time"> 9:00am </td>
+  <td class="lecture">
+    <div class="lectitle">
+      #6 Persistent BitTorrent Trackers   
+      <span class="slides">[<a href="https://arxiv.org/abs/2511.17260" target="_blank">paper</a>]</span> &nbsp;
+    </div>
+    <div class="authors"> 
+      <b>François-Xavier Wicht</b> (Institute of Computer Science, University of Bern), <b>Zhengwei Tong</b> (Duke University), <b>Shunfan Zhou</b> (Phala Network), <b>Hang Yin</b> (Phala Network), <b>Aviv Yaish</b> (Yale University, IC3, Complexity Science Hub)    </div>
+  </td>
+</tr>
+
+<tr>
+  <td class="time"> 9:25am </td>
+  <td class="lecture">
+    <div class="lectitle">
+      #27 Resilient Alerting Protocols for Blockchains   
+      <span class="slides">[<a href="https://arxiv.org/abs/2602.10892" target="_blank">paper</a>]</span> &nbsp;
+    </div>
+    <div class="authors"> 
+      <b>Marwa Mouallem</b> (Technion, Chainlink Labs, IC3), <b>Lorenz Breidenbach</b> (Chainlink Labs), <b>Ittay Eyal</b> (Technion, IC3), <b>Ari Juels</b> (Chainlink Labs, Cornell Tech, IC3)    </div>
+  </td>
+</tr>
+
+<tr>
+  <td class="time"> 9:50am </td>
+  <td class="lecture">
+    <div class="lectitle">
+      #50 B-Privacy: Defining and Enforcing Privacy in Weighted Voting   
+      <span class="slides">[<a href="https://arxiv.org/abs/2509.17871" target="_blank">paper</a>]</span> &nbsp;
+    </div>
+    <div class="authors"> 
+      <b>Dani Vilardell</b> (Cornell Tech, IC3), <b><u>Samuel Breckenridge</u></b> (Cornell Tech, IC3), <b>Andrés Fábrega</b> (Cornell Tech, IC3), <b>Amy Zhao</b> (Ava Labs, IC3), <b>Patrick McCorry</b> (Arbitrum Foundation), <b>Rafael Solaris</b> (Tally), <b>Ari Juels</b> (Cornell Tech, IC3)    </div>
+  </td>
+</tr>
+
+<tr class="break">
+  <td class="time"> 10:15am </td>
+  <td class="lecture"> <div class="lectitle"> Break </div> </td>
+</tr>
+
+<tr>
+  <td colspan="2" class="session"> 
+      Session 11: &nbsp; Zero Knowledge Proofs I 
+      <span class="chair">session chair: TBD</span>
+  </td>
+</tr>
+
+<tr>
+  <td class="time"> 10:45am </td>
+  <td class="lecture">
+    <div class="lectitle">
+      #229 zk-promises: Anonymous Moderation, Reputation, and Blocking from Anonymous Credentials with Callbacks   
+      <span class="slides">[<a href="https://eprint.iacr.org/2024/1260" target="_blank">paper</a>]</span> &nbsp;
+    </div>
+    <div class="authors"> 
+      <b>Maurice Shih</b> (University Of Maryland, College Park), <b>Michael Rosenberg</b> (University of Maryland), <b>Hari Kailad</b> (University Of Maryland), <b>Ian Miers</b> (University of Maryland)    </div>
+  </td>
+</tr>
+
+<tr>
+  <td class="time"> 11:10am </td>
+  <td class="lecture">
+    <div class="lectitle">
+      #167 Computation-Constraint Discrepancies in Zero-Knowledge Proofs   
+    </div>
+    <div class="authors"> 
+      <b>Arman Kolozyan</b> (Max Planck Institute for Security and Privacy), <b>Bram Vandenbogaerde</b> (Vrije Universiteit Brussel), <b>Janwillem Swalens</b> (Nokia Bell Labs), <b>Lode Hoste</b> (Nokia Bell Labs), <b>Stefanos Chaliasos</b> (UCL Centre for Blockchain Technologies & zkSecurity), <b>Coen De Roover</b> (Vrije Universiteit Brussel)    </div>
+  </td>
+</tr>
+
+<tr>
+  <td class="time"> 11:35am </td>
+  <td class="lecture">
+    <div class="lectitle">
+      #180 Arbigraph: Verifiable Turing-Complete Execution Delegation   
+      <span class="slides">[<a href="https://eprint.iacr.org/2025/710" target="_blank">paper</a>]</span> &nbsp;
+    </div>
+    <div class="authors"> 
+      <b>Michael Mirkin</b> (Technion), <b>Hongyin Chen</b> (Technion), <b>Ohad Eitan</b> (Technion), <b>Gal Granot</b> (Technion), <b><u>Ittay Eyal</u></b> (Technion)    </div>
+  </td>
+</tr>
+
+<tr class="break">
+  <td class="time"> 12:00pm </td>
+  <td class="lecture"> <div class="lectitle"> Lunch </div> </td>
+</tr>
+
+<tr>
+  <td colspan="2" class="session"> 
+      Session 12: &nbsp; Proofs II 
+      <span class="chair">session chair: TBD</span>
+  </td>
+</tr>
+
+<tr>
+  <td class="time"> 1:30pm </td>
+  <td class="lecture">
+    <div class="lectitle">
+      #23 Efficiently Provable Approximations for Non-Polynomial Functions   
+      <span class="slides">[<a href="https://eprint.iacr.org/2025/2326" target="_blank">paper</a>]</span> &nbsp;
+    </div>
+    <div class="authors"> 
+      <b>Sriram Sridhar</b> (University of California, Berkeley), <b>Shravan Srinivasan</b> (Lagrange Labs), <b>Dimitrios Papadopoulos</b> (Hong Kong University of Science and Technology & Lagrange Labs), <b>Charalampos Papamanthou</b> (Yale University & Lagrange Labs)    </div>
+  </td>
+</tr>
+
+<tr>
+  <td class="time"> 1:55pm </td>
+  <td class="lecture">
+    <div class="lectitle">
+      #166 Code-based Scalable Collaborative SNARKs   
+      <span class="slides">[<a href="https://eprint.iacr.org/2026/729" target="_blank">paper</a>]</span> &nbsp;
+    </div>
+    <div class="authors"> 
+      <b>Christodoulos Pappas</b> (HKUST & Lagrange Labs), <b>Dimitrios Papadopoulos</b> (HKUST & Lagrange Labs), <b>Charalampos Papamanthou</b> (Yale University & Lagrange Labs)    </div>
+  </td>
+</tr>
+
+<tr class="break">
+  <td class="time"> 2:20pm </td>
+  <td class="lecture"> <div class="lectitle"> Break </div> </td>
+</tr>
+
+<tr>
+  <td colspan="2" class="session"> 
+      Session 13: &nbsp; Networking and execution 
+      <span class="chair">session chair: TBD</span>
+  </td>
+</tr>
+
+<tr>
+  <td class="time"> 2:50pm </td>
+  <td class="lecture">
+    <div class="lectitle">
+      #115 Multiple Sides of 36 Coins: Measuring Peer-to-Peer Infrastructure Across Cryptocurrencies   
+      <span class="slides">[<a href="https://arxiv.org/abs/2511.15388" target="_blank">paper</a>]</span> &nbsp;
+    </div>
+    <div class="authors"> 
+      <b>Lucianna Kiffer</b> (IMDEA Networks), <b>Lioba Heimbach</b> (Category Labs), <b>Dennis Trautwein</b> (University of Wuppertal), <b>Yann Yann</b> (Ethereum Foundation), <b>Oliver Gasser</b> (IPinfo)    </div>
+  </td>
+</tr>
+
+<tr>
+  <td class="time"> 3:15pm </td>
+  <td class="lecture">
+    <div class="lectitle">
+      #223 AetherWeave: Sybil-Resistant Robust Peer Discovery with Stake   
+      <span class="slides">[<a href="https://arxiv.org/abs/2603.23793" target="_blank">paper</a>]</span> &nbsp;
+    </div>
+    <div class="authors"> 
+      <b>Kaya Alpturer</b> (Princeton University), <b>Constantine Doumanidis</b> (Princeton University), <b>Aviv Zohar</b> (The Hebrew University)    </div>
+  </td>
+</tr>
+
+<tr>
+  <td class="time"> 3:40pm </td>
+  <td class="lecture">
+    <div class="lectitle">
+      #111 On Cryptographic Cheap Talk with Smart Contracts   
+    </div>
+    <div class="authors"> 
+      <b>Pavel Hubacek</b> (Institute of Mathematics, Czech Academy of Sciences and Charles University), <b><u>Michelle Yeo</u></b> (Aarhus University and Nanyang Technological University)    </div>
+  </td>
+</tr>
+
+<tr class="break">
+  <td class="time"> 4:05pm </td>
+  <td class="lecture"> <div class="lectitle"> Conference ends ... see you next year </div> </td>
+</tr>
+
+<tr class="break">
+  <td class="time"> 4:35pm </td>
+  <td class="lecture"> <div class="lectitle"> Closing party hosted by Chainlink. Sign up <a href=""_blank">here</a>.  </div> </td>
+</tr>
+
+
+</tbody>
+</table>
+
+<!-- COPY TO HERE -->
+
+</body>
+</html>

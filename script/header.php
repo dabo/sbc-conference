@@ -1,4 +1,14 @@
 <html>
+
+<head>
+  <script>
+    window.onload = function() {
+      var height = document.body.scrollHeight;
+      window.parent.postMessage({'iframeHeight': height}, '*');
+    };
+  </script>
+</head>
+
 <body>
 
 <!---  generated file; do not change manually -->
@@ -6,7 +16,7 @@
 <style>
 table.program {
 	border-collapse:collapse;
-	width:745px;
+	width:760px;
 }
 
 table.program td {
@@ -73,13 +83,6 @@ table.program td.empty {
 }
 </style>
 
-
-
-<!--
-<h2 style="color:rgb(130,0,0);border-bottom-width:3px;border-bottom-style:solid;border-bottom-color:rgb(130,0,0);width:222px;font-weight:300;font-family:Arial,Helvetica,FreeSans,sans-serif">
-   <a name="SBC-Program"></a> <font size="4">Program</font>
-</h2>
--->
 
 <table class="program">
 <tbody>
