@@ -1,0 +1,425 @@
+%-----------------------------------------------------------
+<DAY>
+Monday, July 27, 2027
+
+<LECTURE>
+10
+Welcome remarks
+SBC Program Chairs
+NOPAPER
+NOVIDEO
+
+%------------
+
+<SESSION>
+Censorship Resistance
+TBD
+
+<LECTURE>
+25
+Escaping the Monopolist: An Economic Model of Censorship Resistance in Multi-Proposer Protocols 
+<u><b>Aadityan Ganesh</b></u> (Princeton University), <b>Pranav Garimidi</b> (a16z Crypto), <b>Bruno Mazorra</b> (Flashbots)
+NOPAPER
+NOVIDEO
+
+<LECTURE>
+25
+The Latency Cost Of Censorship Resistance 
+<b>Ittai Abraham</b> (a16z Crypto), <b>Yuval Efron</b> (Ritual), <b><u>Ling Ren</u></b> (UIUC)
+https://eprint.iacr.org/2025/2136
+NOVIDEO
+
+<LECTURE>
+25
+Prefix Consensus For Censorship Resistant BFT 
+<b><u>Zhuolun Xiang</u></b> (Aptos Labs), <b>Andrei Tonkikh</b> (Aptos Labs), <b>Alexander Spiegelman</b> (Aptos Labs)
+https://arxiv.org/abs/2602.02892
+NOVIDEO
+
+<BREAK>
+ 30
+Break
+
+<SESSION>
+The Quantum Threat
+Dan Boneh
+
+<LECTURE>
+25
+Invited: Elliptic Curve Cryptocurrencies and Quantum Vulnerabilities
+<b>Ryan Babbush</b>, Google
+https://eprint.iacr.org/2026/625
+NOVIDEO
+
+<LECTURE>
+20
+Transitioning a hardware wallet to post-quantum security
+<b>Charles Guillemet</b>, CTO of Ledger
+NOPAPER
+NOVIDEO
+
+<LECTURE>
+20
+Transitioning a custodian to post-quantum security
+TBD
+NOPAPER
+NOVIDEO
+
+%------------
+
+<BREAK>
+ 90
+Lunch
+
+%------------
+
+<SESSION>
+Consensus I
+TBD
+
+
+<LECTURE>
+25
+Forget-IT: Optimal Good-Case Latency For Information-Theoretic BFT 
+<b>Ittai Abraham</b> (a16z Crypto Research), <b>Sourav Das</b> (Category Labs), <b>Yuval Efron</b> (Ritual), <b>Jovan Komatovic</b> (Category Labs)
+https://eprint.iacr.org/2026/355
+NOVIDEO
+
+<LECTURE>
+25
+Timing Games in Responsive Consensus Protocols 
+<b>Kaya Alpturer</b> (Princeton University), <b>Kushal Babel</b> (Category Labs), <b>Aditya Saraf</b> (Cornell University)
+https://arxiv.org/abs/2510.25144
+NOVIDEO
+
+<LECTURE>
+25
+MonadBFT: Fast, Responsive, Fork-Resistant Streamlined Consensus 
+<b><u>Mohammad Jalalzai</u></b> (Category Labs), Kushal Babel</b> (Category Labs), <b>Jovan Komatovic</b> (Category Labs), <b>Tobias Klenze</b> (Category Labs), Sourav Das</b> (Category Labs), <b>Fatima Elsheimy</b> (Yale University), <b>Mike Setrin</b> (Category Labs), <b>John Bergschneider</b> (Category Labs), <b>Babak Gilkalaye</b> (Category Labs)
+https://arxiv.org/abs/2502.20692
+NOVIDEO
+
+<LECTURE>
+25
+Hydrangea: Optimistic Two-Round Partial Synchrony with Improved Fault Resilience 
+<b>Nibesh Shrestha</b> (Supra Research), <b>Aniket Kate</b> (Supra Research / Purdue University), <b>Kartik Nayak</b> (Duke University)
+https://eprint.iacr.org/2025/1112
+NOVIDEO
+
+<BREAK>
+ 35
+Break
+
+
+%------------
+
+<SESSION>
+Batch Threshold Decryption
+TBD
+
+<LECTURE>
+25
+Efficient Batch Threshold Encryption Using Partial Fraction Techniques 
+<b>Dan Boneh</b> (Stanford University), <b>Rohit Nema</b> (Stanford University), <b>Arnab Roy</b> (Mysten Labs), <b><u>Ertem Nusret Tas</u></b> (a16z Crypto Research)
+https://eprint.iacr.org/2026/674
+NOVIDEO
+
+<LECTURE>
+25
+TrX: Encrypted Mempools in High Performance BFT Protocols 
+<b>Rex Fernando</b> (Aptos Labs), <b>Guru Vamsi Policharla</b> (Commonware), <b>Andrei Tonkikh</b> (Aptos Labs), <b>Zhuolun Xiang</b> (Aptos Labs)
+https://eprint.iacr.org/2025/2032
+NOVIDEO
+
+<LECTURE>
+25
+Weighted Batched Threshold Encryption with Applications to Mempool Resilience 
+<b>Amit Agarwal</b> (Category Labs), <b>Kushal Babel</b> (Category Labs), <b>Sourav Das</b> (Category Labs), <b>Babak Gilkalaye</b> (Category Labs), <b>Arup Mondal</b> (Ashoka University), <b>Benny Pinkas</b> (Bar Ilan University), <b>Peter Rindal</b> (Category Labs), <b>Aayush Yadav</b> (George Mason University)
+https://eprint.iacr.org/2025/2115
+NOVIDEO
+
+<BREAK>
+ 00
+End of day one
+
+<BREAK>
+ 90
+Reception
+
+
+%-----------------------------------------------------------
+<DAY>
+Tuesday, July 28, 2026
+
+<SESSION>
+Bitcoin Bridges and Proof of Work
+TBD
+
+<LECTURE>
+25
+WIP: Efficient Bitcoin Bridges via Garbled Circuits 
+<b>Robin Linus Woll</b> (Stanford University and ZeroSync), <b>Ioannis Alexopoulos</b> (TU Wien), <b>Lukas Aumayr</b> (University of Edinburgh & Common Prefix), <b>Zeta Avarikioti</b> (TU Wien and Common Prefix), <b>Matteo Maffei</b> (TU Wien) 
+NOPAPER
+NOVIDEO
+
+<LECTURE>
+25
+BABE: Verifying Proofs on Bitcoin Made 1000x Cheaper 
+<b>Sanjam Garg</b> (University of California, Berkeley), <b>Dimitris Kolonelos</b> (UC Berkeley), <b>Mikhail Sergeevitch</b> (Babylon Labs), <b><u>Srivatsan Sridhar</u></b> (Byzantine Research), <b>David Tse</b> (Byzantine Research)
+https://eprint.iacr.org/2026/065
+NOVIDEO
+
+<LECTURE>
+25
+Ark: Offchain Transaction Batching in Bitcoin 
+<b>Pim Keer</b> (TU Wien), <b>Zeta Avarikioti</b> (TU Wien and Common Prefix), <b>Matteo Maffei</b> (TU Wien), <b>Marco Argentieri</b> (Ark Labs), <b>Andrew Camilleri</b> (Ark Labs)
+https://arxiv.org/abs/2605.20952
+NOVIDEO
+
+<BREAK>
+ 30
+Break
+
+<SESSION>
+New Consensus Paradigms
+TBD
+
+<LECTURE>
+25
+Space Fabric: A Satellite-Enhanced Trusted Execution Architecture 
+<b><u>Filip Rezabek</u></b> (SpaceComputer and Technical University of Munich), <b>Dahlia Malkhi</b> (UCSB and SpaceComputer), <b>Amir Yahalom</b> (SpaceComputer)
+https://arxiv.org/abs/2603.23745
+NOVIDEO
+
+<LECTURE>
+25
+The Economics of Proof-of-Useful-Work 
+<b><u>Rafael Pass</u></b> (Cornell University, Technion, Impossible Labs)
+NOPAPER
+NOVIDEO
+
+
+%------  Lightning talks  ------
+
+<SESSION>
+Lightning talks
+<b>Joachim Neu</b>
+
+<LECTURE>
+35
+Lightning talks
+Short 3 minute talks by the participants (no registration needed)
+NOPAPER
+NOVIDEO
+
+<BREAK>
+ 80
+Lunch
+
+%-----------
+
+<SESSION>
+Zero Knowledge Proofs I
+TBD
+
+<LECTURE>
+25
+zk-promises: Anonymous Moderation, Reputation, and Blocking from Anonymous Credentials with Callbacks 
+<b>Maurice Shih</b> (University Of Maryland, College Park), <b>Michael Rosenberg</b> (University of Maryland), <b>Hari Kailad</b> (University Of Maryland), <b>Ian Miers</b> (University of Maryland)
+https://eprint.iacr.org/2024/1260
+NOVIDEO
+
+<LECTURE>
+25
+Computation-Constraint Discrepancies in Zero-Knowledge Proofs 
+<b>Arman Kolozyan</b> (Max Planck Institute for Security and Privacy), <b>Bram Vandenbogaerde</b> (Vrije Universiteit Brussel), <b>Janwillem Swalens</b> (Nokia Bell Labs), <b>Lode Hoste</b> (Nokia Bell Labs), <b>Stefanos Chaliasos</b> (UCL Centre for Blockchain Technologies & zkSecurity), <b>Coen De Roover</b> (Vrije Universiteit Brussel)
+NOPAPER
+NOVIDEO
+
+<LECTURE>
+25
+Arbigraph: Verifiable Turing-Complete Execution Delegation 
+<b>Michael Mirkin</b> (Technion), <b>Hongyin Chen</b> (Technion), <b>Ohad Eitan</b> (Technion), <b>Gal Granot</b> (Technion), <b><u>Ittay Eyal</u></b> (Technion)
+https://eprint.iacr.org/2025/710
+NOVIDEO
+
+%-----------
+
+<BREAK>
+ 30
+Break
+
+%--------------
+
+<SESSION>
+DeFi
+TBD
+
+<LECTURE>
+25
+Quantifying Sub-Optimality in Routing for Automated Market 
+<b><u>Weiye Xi</u></b> (Columbia University), <b>Ciamac Moallemi</b> (Columbia University)
+NOPAPER
+NOVIDEO
+
+<LECTURE>
+25
+Designing On-Chain Options: Amortizing Perpetual Options 
+<b><u>Zachary Feinstein</u></b> (Stevens Institute of Technology), <b>Maxim Bichuch</b> (University at Buffalo)
+https://arxiv.org/pdf/2605.19146v1
+NOVIDEO
+
+<LECTURE>
+25
+Risk-Based Auto-Deleveraging 
+<b>Steven Campbell</b> (Columbia University), <b>Natascha Hey</b> (Columbia University), <b><u>Ciamac Moallemi</u></b> (Columbia University / Paradigm / Uniswap Labs), <b>Marcel Nutz</b> (Columbia University) 
+https://arxiv.org/abs/2603.15963
+NOVIDEO
+
+<LECTURE>
+25
+Perils of Parallelism: Transaction Fee Mechanisms under Execution Uncertainty 
+<b><u>Sarisht Wadhwa</u></b> (Duke University), <b>Aviv Yaish</b> (Yale University, IC3, Complexity Science Hub Vienna), <b>Fan Zhang</b> (Yale University, IC3), <b>Kartik Nayak</b> (Duke University)
+https://arxiv.org/abs/2604.04193
+NOVIDEO
+
+
+%--------------
+
+<BREAK>
+ 60
+End of day two
+
+
+%-----------------------------------------------------------
+<DAY>
+Wednesday, July 29, 2026
+
+<SESSION>
+Infrastructure
+TBD
+
+<LECTURE>
+25
+Persistent BitTorrent Trackers 
+<b>François-Xavier Wicht</b> (Institute of Computer Science, University of Bern), <b>Zhengwei Tong</b> (Duke University), <b>Shunfan Zhou</b> (Phala Network), <b>Hang Yin</b> (Phala Network), <b>Aviv Yaish</b> (Yale University, IC3, Complexity Science Hub)
+https://arxiv.org/abs/2511.17260
+NOVIDEO
+
+<LECTURE>
+25
+Resilient Alerting Protocols for Blockchains 
+<b>Marwa Mouallem</b> (Technion, Chainlink Labs, IC3), <b>Lorenz Breidenbach</b> (Chainlink Labs), <b>Ittay Eyal</b> (Technion, IC3), <b>Ari Juels</b> (Chainlink Labs, Cornell Tech, IC3)
+https://arxiv.org/abs/2602.10892
+NOVIDEO
+
+<LECTURE>
+25
+B-Privacy: Defining and Enforcing Privacy in Weighted Voting 
+<b>Dani Vilardell</b> (Cornell Tech, IC3), <b><u>Samuel Breckenridge</u></b> (Cornell Tech, IC3), <b>Andrés Fábrega</b> (Cornell Tech, IC3), <b>Amy Zhao</b> (Ava Labs, IC3), <b>Patrick McCorry</b> (Arbitrum Foundation), <b>Rafael Solaris</b> (Tally), <b>Ari Juels</b> (Cornell Tech, IC3)
+https://arxiv.org/abs/2509.17871
+NOVIDEO
+
+%------------
+
+<BREAK>
+ 30
+Break
+
+%------------
+
+<SESSION>
+Attacks and more
+TBD
+
+<LECTURE>
+25
+Blockspace Under Pressure: An Analysis of Spam MEV on High-Throughput Blockchains 
+<b>Wenhao Wang</b> (Yale University, IC3), <b>Aditya Saraf</b> (Cornell University), <b>Lioba Heimbach</b> (Category Labs), <b>Kushal Babel</b> (Category Labs), <b>Fan Zhang</b> (Yale University, IC3)
+https://arxiv.org/abs/2604.00234
+NOVIDEO
+
+<LECTURE>
+25
+TxRay: Agentic Postmortem of Live Blockchain Attacks 
+<b><u>Ziyue Wang</u></b> (Decentralized Intelligence AG), <b>Jiangshan Yu</b> (The University of Sydney), <b>Kaihua Qin</b> (University of Warwick) <kaihua@qin.ac>, Dawn Song</b> (UC Berkeley), <b>Arthur Gervais</b> (University College London), <b>Liyi Zhou</b> (University of Sydney)
+https://arxiv.org/abs/2602.01317
+NOVIDEO
+
+<LECTURE>
+25
+Sunfish: Reading Ledgers with Sparse Clients 
+<b><u>Giulia Scaffino</u></b> (Technical University of Vienna & Common Prefix), <b>Philipp Slowak</b> (Technical University of Vienna), <b>Karl Wüst</b> (Mysten Labs), <b>Deepak Maram</b> (Mysten Labs), <b>Alberto Sonnino</b> (Mysten Labs & University College London</b> (UCL), <b>Lefteris Kokoris-Kogias</b> (MystenLabs)
+https://eprint.iacr.org/2024/1680
+NOVIDEO
+
+%-----------
+
+<BREAK>
+ 90
+Lunch
+
+%-----------
+
+<SESSION>
+Zero-Knowledge Proofs II
+TBD
+
+<LECTURE>
+25
+Efficiently Provable Approximations for Non-Polynomial Functions 
+<b>Sriram Sridhar</b> (University of California, Berkeley), <b>Shravan Srinivasan</b> (Lagrange Labs), <b>Dimitrios Papadopoulos</b> (Hong Kong University of Science and Technology & Lagrange Labs), <b>Charalampos Papamanthou</b> (Yale University & Lagrange Labs)
+https://eprint.iacr.org/2025/2326
+NOVIDEO
+
+<LECTURE>
+25
+Code-based Scalable Collaborative SNARKs 
+<b>Christodoulos Pappas</b> (HKUST & Lagrange Labs), <b>Dimitrios Papadopoulos</b> (HKUST & Lagrange Labs), <b>Charalampos Papamanthou</b> (Yale University & Lagrange Labs)
+https://eprint.iacr.org/2026/729
+NOVIDEO
+
+%-----------
+
+<BREAK>
+ 30
+Break
+
+%-----------
+
+<SESSION>
+Networking and execution
+TBD
+
+<LECTURE>
+25
+Multiple Sides of 36 Coins: Measuring Peer-to-Peer Infrastructure Across Cryptocurrencies 
+<b>Lucianna Kiffer</b> (IMDEA Networks), <b>Lioba Heimbach</b> (Category Labs), <b>Dennis Trautwein</b> (University of Wuppertal), <b>Yann Yann</b> (Ethereum Foundation), <b>Oliver Gasser</b> (IPinfo)
+https://arxiv.org/abs/2511.15388
+NOVIDEO
+
+<LECTURE>
+25
+AetherWeave: Sybil-Resistant Robust Peer Discovery with Stake 
+<b>Kaya Alpturer</b> (Princeton University), <b>Constantine Doumanidis</b> (Princeton University), <b>Aviv Zohar</b> (The Hebrew University)
+https://arxiv.org/abs/2603.23793
+NOVIDEO
+
+<LECTURE>
+25
+On Cryptographic Cheap Talk with Smart Contracts 
+<b>Pavel Hubacek</b> (Institute of Mathematics, Czech Academy of Sciences and Charles University), <b><u>Michelle Yeo</u></b> (Aarhus University and Nanyang Technological University)
+NOPAPER
+NOVIDEO
+
+%-----------
+
+<BREAK>
+ 30
+Conference ends ... see you next year
+
+<BREAK>
+ 00
+Closing party hosted by Chainlink. Sign up <a href="https://luma.com/3mnjjz6k" target="_blank">here</a>. 
+
+<END>
