@@ -16,7 +16,7 @@
 <style>
 table.program {
 	border-collapse:collapse;
-	width:760px;
+	width:90%;
 }
 
 table.program td {
