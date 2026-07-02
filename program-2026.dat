@@ -46,7 +46,7 @@ Dan Boneh
 
 <LECTURE>
 25
-Invited: Elliptic Curve Cryptocurrencies and Quantum Vulnerabilities
+Invited talk: Elliptic Curve Cryptocurrencies and Quantum Vulnerabilities
 <b>Ryan Babbush</b>, Google
 https://eprint.iacr.org/2026/625
 NOVIDEO
@@ -221,6 +221,13 @@ Lunch
 <SESSION>
 Zero Knowledge Proofs I
 TBD
+
+<LECTURE>
+25
+Invited talk: AI vs QED: formally verifying the stack, from theory to practice
+<b>Alexander Hicks</b> (Ethereum Foundation)
+NOPAPER
+NOVIDEO
 
 <LECTURE>
 25
