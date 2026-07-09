@@ -381,9 +381,9 @@ NOVIDEO
 
 <LECTURE>
 25
-Code-based Scalable Collaborative SNARKs 
-<b>Christodoulos Pappas</b> (HKUST & Lagrange Labs), <b>Dimitrios Papadopoulos</b> (HKUST & Lagrange Labs), <b>Charalampos Papamanthou</b> (Yale University & Lagrange Labs)
-https://eprint.iacr.org/2026/729
+Flock: Fast Proving for Batch Boolean Computations
+<b>Benedikt Bünz</b> (NYU), <b>Ron Rothblum</b> (Succinct), <b>William Wang</b> (NYU)
+https://eprint.iacr.org/2026/1329
 NOVIDEO
 
 %-----------
