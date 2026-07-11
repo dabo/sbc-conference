@@ -119,9 +119,9 @@ TBD
 
 <LECTURE>
 25
-Efficient Batch Threshold Encryption Using Partial Fraction Techniques 
-<b>Dan Boneh</b> (Stanford University), <b>Rohit Nema</b> (Stanford University), <b>Arnab Roy</b> (Mysten Labs), <b><u>Ertem Nusret Tas</u></b> (a16z Crypto Research)
-https://eprint.iacr.org/2026/674
+Partial Fractions Techniques: Foundations and Efficient Batch Threshold Encryption
+<b>Dan Boneh</b> (Stanford University), <b>Charanjit S. Jutla</b> (IBM Research), <b>Rohit Nema</b> (Stanford University), <b>Arnab Roy</b> (Mysten Labs), <b><u>Ertem Nusret Tas</u></b> (a16z Crypto Research)
+https://eprint.iacr.org/2025/2081 https://eprint.iacr.org/2026/674
 NOVIDEO
 
 <LECTURE>

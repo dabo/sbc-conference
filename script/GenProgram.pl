@@ -82,7 +82,7 @@ ENDHTML
         chomp($title    = <DATA>);
         chomp($authors  = <DATA>);
         $speaker  = "";
-        chomp($paper    = <DATA>);   $url =~ s/\s+$//;
+        chomp($paper    = <DATA>);   $url =~ s/.+$//;
         chomp($video    = <DATA>);   $url =~ s/\s+$//;
 
 	$timestr = &GetTimeStr($time, $duration);
@@ -101,8 +101,19 @@ ENDHTML
 	}
 	    
 	if (!($paper =~ /NOPAPER/i)) { 
-	    print HTML "      <span class=\"slides\">[<a href=\"$paper\" target=\"_blank\">paper</a>]</span> &nbsp;\n";
-	}
+            @paperlist = split(/\s+/, $paper);
+            if (@paperlist == 1) {
+                print HTML "      <span class=\"slides\">[<a href=\"$paper\" target=\"_blank\">paper</a>]</span> &nbsp;";
+            } 
+            else {
+                my $counter = 1;
+                foreach my $url (@paperlist) {
+                    print HTML "      <span class=\"slides\">[<a href=\"$url\" target=\"_blank\">paper$counter</a>]</span> &nbsp;";
+                    $counter++;
+                }
+            }
+            print HTML "\n"
+        }            
 
         print HTML <<ENDHTML;
     </div>
