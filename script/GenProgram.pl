@@ -67,7 +67,7 @@ ENDHTML
 <tr>
   <td colspan="2" class="session"> 
       Session $sessionnum: &nbsp; $title 
-      <span class="chair">session chair: $chair</span>
+      <span class="chair">session chair: <b>$chair</b></span>
   </td>
 </tr>
 
