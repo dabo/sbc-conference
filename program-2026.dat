@@ -359,9 +359,9 @@ NOVIDEO
 
 <LECTURE>
 25
-Sunfish: Reading Ledgers with Sparse Clients 
-<b><u>Giulia Scaffino</u></b> (Technical University of Vienna & Common Prefix), <b>Philipp Slowak</b> (Technical University of Vienna), <b>Karl Wüst</b> (Mysten Labs), <b>Deepak Maram</b> (Mysten Labs), <b>Alberto Sonnino</b> (Mysten Labs & University College London</b> (UCL), <b>Lefteris Kokoris-Kogias</b> (MystenLabs)
-https://eprint.iacr.org/2024/1680
+Self Protocol: Lessons from Deploying zkPassport at Scale
+<b>Marek Olszewski</b> (co-founder self.xyz)
+NOPAPER
 NOVIDEO
 
 %-----------
